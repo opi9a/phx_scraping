@@ -53,13 +53,6 @@ def main(namefile, outfile="mwts.csv"):
             except:
                 continue
 
-#if __name__ == "__main__":
-#    import sys
-#    if len(sys.argv)==2:
-#        main(sys.argv[0], sys.argv[1])
-#    else: 
-#        main(sys.argv[0])
-#
-#else:
-
-main("names.csv")
+if __name__ == "__main__":
+    import sys
+    main("names.csv")
