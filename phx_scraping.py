@@ -24,10 +24,13 @@ def get_mwt(name, debug=True):
     res = requests.get(req_string)
     res.raise_for_status()
     soup = bs4.BeautifulSoup(res.text, "lxml")
-    type(soup)
-
+ 
     sel = soup.select('td')
-    return [str(x)[4:-5] for x in sel if "/mol" in str(x)]
+    result = [str(x)[4:-5] for x in sel if "g/mol" in str(x)]
+    if len(result)>0:
+        return result
+    else:
+        return ["no mwt found"]
 
 
 def main(namefile, outfile="mwts.csv"):
@@ -42,7 +45,7 @@ def main(namefile, outfile="mwts.csv"):
         try:
             mwts.append(get_mwt(drug))
         except:
-            mwts.append("FAILED")
+            mwts.append(["FAILED"])
  
     # Write out results   
     with open(outfile, 'w', newline="") as outfile:

@@ -4,15 +4,20 @@ rituximab,143859.7 g/mol
 ranibizumab,"48,350 g/mol"
 trastuzumab,145531.5 g/mol
 infliximab,144190.3 g/mol
-aflibercept intravitreal,F
+aflibercept intravitreal,FAILED
 lenalidomide,259.261 g/mol
+ledipasvir/sofosbuvir,no mwt found
 sofosbuvir,529.453 g/mol
+emtricitabine/tenofovir disoproxil,no mwt found
 imatinib,"493.603 g/mol<br/>
 589.7 g/mol (mesilate)"
 eculizumab,148 kg/mol
+efavirenz/emtricitabine/tenofovir disoproxil,no mwt found
 bortezomib,384.237 g/mol
 natalizumab,149 g/mol
 pomalidomide,273.24 g/mol
+ibrutinib,no mwt found
+pertuzumab,no mwt found
 ivacaftor,392.490 g/mol
 dimethyl fumarate,144.127 g/mol
 darunavir,547.665 g/mol
@@ -20,28 +25,38 @@ tocilizumab,145.0 kg/mol
 golimumab,147 kg/mol
 ustekinumab,145.64 kg/mol
 trastuzumab emtansine,148.5 kg/mol
-emtricitabine/rilpivirine/tenofovir disoproxil,F
+emtricitabine/rilpivirine/tenofovir disoproxil,FAILED
+Enzalutamide,no mwt found
 alemtuzumab,145453.8 g/mol
 pemetrexed,427.411 g/mol
-sodium chloride,−30.3·10<sup>−6</sup> cm<sup>3</sup>/mol
+sodium chloride,no mwt found
 bevacizumab,"149,196.82 g/mol"
+interferon beta,no mwt found
 cetuximab,145781.6 g/mol
+total parenteral nutrition,no mwt found
 fingolimod,307.471 g/mol
+Pembrolizumab,no mwt found
 ruxolitinib,306.37 g/mol
+abacavir/lamivudine,no mwt found
 azacitidine,244.205 g/mol
 certolizumab pegol,"47,750 g/mol"
 botulinum toxin type a,"150 kg/mol (150,000 g/mol)"
 posaconazole,700.778 g/mol
+abiraterone,no mwt found
 omalizumab,145058.2 g/mol
 denosumab,144.7 kg/mol
-abacavir/lamivudine/dolutegravir,F
+abacavir/lamivudine/dolutegravir,FAILED
 enoxaparin sodium,4500 g/mol (average)
+dalteparin sodium,no mwt found
 nilotinib,529.5245 g/mol
-iodine,"(I<sub>2</sub>) 15.52 <a class=""mw-redirect"" href=""/wiki/Kilojoule_per_mole"" title=""Kilojoule per mole"">kJ/mol</a>"
-alglucosidase,F
-amphotericin lipid,F
+iodine,no mwt found
+alglucosidase,FAILED
+amphotericin lipid,FAILED
+ombitasvir/paritaprevir/ritonavir,no mwt found
+somatropin,no mwt found
 vedolizumab,146.8 kg/mol
 tacrolimus,804.018 g/mol
+agalsidase alfa,no mwt found
 sunitinib,"398.474 g/mol<br/>
 532.561 g/mol (<a class=""mw-redirect"" href=""/wiki/Malate"" title=""Malate"">malate</a>)"
 tenofovir disoproxil,519.443 g/mol
@@ -67,9 +82,13 @@ octreotide,1019.24 g/mol
 bosentan,551.614 g/mol
 deferasirox,373.362 g/mol
 sevoflurane,200.055 g/mol
+alteplase,no mwt found
+piperacillin/tazobactam,no mwt found
 ipilimumab,148634.914 g/mol
+pregabalin,no mwt found
 rivaroxaban,435.882 g/mol
 Dabrafenib,519.56 g/mol
+ferric carboxymaltose,no mwt found
 heparin,12000–15000 g/mol
 ambrisentan,378.421 g/mol
 dasatinib,488.01 g/mol
@@ -78,9 +97,11 @@ bendamustine,358.262 g/mol
 meropenem,383.464 g/mol
 dornase alfa,29253.9 g/mol
 axitinib,386.469 g/mol
+clozapine,no mwt found
 valganciclovir,354.362 g/mol
 macitentan,588.273 g/mol
-cobicistat/elvitegravir/emtricitabine/tenofovir disoproxil,F
+cobicistat/elvitegravir/emtricitabine/tenofovir disoproxil,FAILED
+idursulfase,no mwt found
 etonogestrel,324.457 g/mol
 risperidone,410.485 g/mol
 benzylpenicillin,334.4 g/mol
@@ -89,32 +110,43 @@ eribulin,729.90 g/mol
 cabazitaxel,835.93 g/mol
 brentuximab,149.2–151.8 kg/mol
 levonorgestrel,312.446 g/mol
+water,no mwt found
+sodium hyaluronate,no mwt found
+fluticasone/salmeterol,no mwt found
+agalsidase beta,no mwt found
 ciclosporin,1202.61 g/mol
 tiotropium,472.416 g/mol
-blood glucose test strips,F
+blood glucose test strips,FAILED
+amoxicillin/clavulanic acid,no mwt found
 apixaban,459.497 g/mol
 prednisolone,360.444 g/mol
+palivizumab,no mwt found
 entecavir,277.279 g/mol
-doxorubicin (liposomal),F
-dexamethasone intravitreal,F
+doxorubicin (liposomal),FAILED
+dexamethasone intravitreal,FAILED
 canakinumab,145.2 kg/mol
 paracetamol,151.163 g/mol
 eltrombopag,442.467 g/mol
 linezolid,337.346 g/mol
+poractant alfa,no mwt found
 sodium lactate,"112.06 g/mol<sup class=""reference"" id=""cite_ref-chemblink.com_1-0""><a href=""#cite_note-chemblink.com-1"">[1]</a></sup>"
 anidulafungin,1140.24 g/mol
-gadolinium,"10.05 <a class=""mw-redirect"" href=""/wiki/Kilojoule_per_mole"" title=""Kilojoule per mole"">kJ/mol</a>"
+gadolinium,no mwt found
+thalidomide,no mwt found
 imiglucerase,"55597.4 g/mol (un<a class=""mw-redirect"" href=""/wiki/Glycosylate"" title=""Glycosylate"">glycosylated</a>)"
-adrenaline/epinephrine,F
+adrenaline/epinephrine,FAILED
 vismodegib,421.30 g/mol
 filgrastim,18802.8 g/mol
 fulvestrant,606.772 g/mol
 liothyronine,672.96 g/mol
 daptomycin,1619.7086 g/mol
+rasburicase,no mwt found
+dialysis,no mwt found
 aripiprazole,448.385 g/mol
+laronidase,no mwt found
 micafungin,1270.28 g/mol
 idelalisib,415.42 g/mol
-tobramycin neb/DPI,F
+tobramycin neb/DPI,FAILED
 anagrelide,256.088 g/mol
 teriparatide,4117.72 g/mol
 erlotinib,393.436 g/mol
@@ -123,20 +155,24 @@ vinorelbine,778.932 g/mol
 ertapenem,475.516 g/mol
 plerixafor,502.782 g/mol
 desflurane,168.038 g/mol
+albumin,no mwt found
 flucloxacillin,453.87 g/mol
 cinacalcet,357.412 g/mol
 dolutegravir,419.38 g/mol
 propofol,178.271 g/mol
 crizotinib,450.337 g/mol
+ifosfamide,no mwt found
 ritonavir,720.946 g/mol
+peginterferon alfa,no mwt found
 levobupivacaine,288.43 g/mol
 epoprostenol,352.465 g/mol
 gentamicin,477.596 g/mol
-aztreonam lysinate,F
+aztreonam lysinate,FAILED
 Obinutuzumab,146.1 kg/mol
 pegfilgrastim,"39,000 g/mol"
 nevirapine,266.298 g/mol
-ascorbic acid/glucose/nicotinamide/riboflavin/thiamine,F
+argipressin,no mwt found
+ascorbic acid/glucose/nicotinamide/riboflavin/thiamine,FAILED
 methylprednisolone,374.471 g/mol
 cyclophosphamide,261.086 g/mol
 lidocaine,234.34 g/mol
@@ -145,9 +181,11 @@ fluorouracil,130.077 g/mol
 etravirine,435.28 g/mol
 Sugammadex,2178 g/mol
 mesna,164.181 g/mol
+desferrioxamine,no mwt found
+hepatitis B,no mwt found
 oxycodone,315.364 g/mol
 maraviroc,513.666 g/mol
-Service fee,F
+Service fee,FAILED
 mercaptopurine,152.177 g/mol
 sorafenib,464.825 g/mol
 fidaxomicin,1058.04 g/mol
@@ -155,111 +193,136 @@ cyclizine,266.381 g/mol
 vemurafenib,489.92 g/mol
 epoetin alfa,18396.1 g/mol
 mycophenolate,320.34 g/mol
+nitrofurantoin,no mwt found
 iron sucrose,"34,000 to 60,000 g/mol"
-prismasol,F
+prismasol,FAILED
 sildenafil,474.5764 g/mol
-test strips,F
-bone cement/gentamicin,F
-bacillus calmette-guerin,F
+test strips,FAILED
+budesonide/formoterol,no mwt found
+epoetin beta,no mwt found
+bone cement/gentamicin,FAILED
+bacillus calmette-guerin,FAILED
 rifaximin,785.879 g/mol
+defibrotide,no mwt found
 metaraminol,167.205 g/mol
 nicotine,162.23 g/mol
-glucose,-101.5·10<sup>−6</sup> cm<sup>3</sup>/mol
+glucose,no mwt found
+urinalysis,no mwt found
+galsulfase,no mwt found
 tigecycline,585.65 g/mol
-sodium bicarbonate,87.61 J/mol K
+aprepitant,no mwt found
+sodium bicarbonate,no mwt found
+fibrin sealant,no mwt found
+lopinavir/ritonavir,no mwt found
 cefuroxime,424.386 g/mol
-moviprep,F
+moviprep,FAILED
 gefitinib,446.902 g/mol
-lidocaine/phenylephrine,F
+lidocaine/phenylephrine,FAILED
 ticagrelor,522.567 g/mol
 terlipressin,1227.37 g/mol
 glycopyrronium bromide,398.335 g/mol
 aztreonam,435.433 g/mol
 abciximab,47455.4 g/mol
-menotrophin,F
+menotrophin,FAILED
+panitumumab,no mwt found
 morphine,285.34 g/mol
 goserelin,1269.410 g/mol
 metronidazole,171.15 g/mol
-antithymocyte immunoglobulin,F
+antithymocyte immunoglobulin,FAILED
+ribavirin,no mwt found
 fentanyl,336.471 g/mol
 tropicamide,284.353 g/mol
+lenograstim,no mwt found
 chloramphenicol,323.1320 g/mol
 bupivacaine,288.43 g/mol
-Colistimethate/colistin (DPI only),F
+Colistimethate/colistin (DPI only),FAILED
 carboplatin,371.249 g/mol
 alitretinoin,300.435 g/mol
 trabectedin,761.84 g/mol
-iron isomaltoside,F
+iron isomaltoside,FAILED
 afatinib,485.937 g/mol
-noradrenaline/norepinephrine,F
+vancomycin,no mwt found
+noradrenaline/norepinephrine,FAILED
+aciclovir,no mwt found
 iloprost,360.48 g/mol
 sirolimus,914.172 g/mol
+prothrombin,no mwt found
 secukinumab,147.94 kg/mol
 clarithromycin,747.953 g/mol
+melatonin,no mwt found
 buprenorphine,467.64 g/mol
-peginterferon beta,F
+peginterferon beta,FAILED
 phenylephrine,167.205 g/mol
 melphalan,305.2 g/mol
 mycophenolic acid,320.34 g/mol
+mitomycin,no mwt found
 basiliximab,143801.3 g/mol
-beclometasone/formoterol,F
+beclometasone/formoterol,FAILED
 anakinra,"17,257.6 g/mol"
 omeprazole,345.42 g/mol
-pegasparaginase,F
+pegasparaginase,FAILED
 chlorphenamine,274.788 g/mol
-Paclitaxel albumin,F
+Paclitaxel albumin,FAILED
 sodium valproate,144.211 g/mol
 zoledronic acid,272.09 g/mol
-blood ketone level monitoring,F
+blood ketone level monitoring,FAILED
 bosutinib,530.446 g/mol
 rotigotine,315.474 g/mol
 abacavir,286.332 g/mol
 docetaxel,807.879 g/mol
+carmustine,no mwt found
 colecalciferol,384.64 g/mol
 salbutamol,239.311 g/mol
-fumaric acid esters (FAE),F
-calcium chloride,"−5.47·10<sup>−5</sup> cm<sup>3</sup>/mol<sup class=""reference"" id=""cite_ref-crc_1-3""><a href=""#cite_note-crc-1"">[1]</a></sup>"
+fumaric acid esters (FAE),FAILED
+calcium chloride,no mwt found
 amoxicillin,365.4 g/mol
 trazodone,371.8641 g/mol
 teriflunomide,270.207 g/mol
-meglumine amidotrizoate/sodium amidotrizoate,F
+meglumine amidotrizoate/sodium amidotrizoate,FAILED
+midazolam,no mwt found
 temocillin,414.453 g/mol
 amikacin,585.603 g/mol
-Colistimethate/colistin,F
+Colistimethate/colistin,FAILED
 capecitabine,359.35 g/mol
-methylthioninium,F
-potassium chloride/sodium chloride,F
+methylthioninium,FAILED
+potassium chloride/sodium chloride,FAILED
 insulin glargine,6063 g/mol
 leuprorelin,1209.4 g/mol
+follitropin alfa,no mwt found
 apomorphine,267.322 g/mol
 fosfomycin,138.059 g/mol
 imiquimod,240.304 g/mol
+thyrotropin,no mwt found
 solifenacin succinate,362.465 g/mol
 fondaparinux sodium,1726.77 g/mol
+plasma-lyte,no mwt found
 gemcitabine,263.198 g/mol
 proxymetacaine,294.389 g/mol
-fibrinogen/thrombin,F
+betamethasone,no mwt found
+fibrinogen/thrombin,FAILED
 flupentixol,434.5219 g/mol
 elosulfase alfa,110.8 kg/mol
 clofarabine,303.677 g/mol
 daunorubicin,"527.52 g/mol<br/>
 563.99 g/mol (<a href=""/wiki/Hydrochloride"" title=""Hydrochloride"">HCl</a> salt)"
 chlorhexidine,505.446 g/mol
-macrogol compound,F
-carbidopa/levodopa gel,F
+macrogol compound,FAILED
+carbidopa/levodopa gel,FAILED
 alfentanil,416.517 g/mol
 epirubicin,543.519 g/mol
-bupivacaine/adrenaline,F
-trimethoprim/sulfamethoxazole(sulphamethoxazole),F
+olanzapine,no mwt found
+bupivacaine/adrenaline,FAILED
+trimethoprim/sulfamethoxazole(sulphamethoxazole),FAILED
 crisantaspase,31731.9 g/mol
+carbocisteine,no mwt found
 paclitaxel,853.906 g/mol
-lidocaine/adrenaline,F
+lidocaine/adrenaline,FAILED
 clindamycin,424.98 g/mol
 nintedanib,539.6248 g/mol
 ponatinib,532.56 g/mol
 benzydamine,309.405 g/mol
 diamorphine,369.41 g/mol
-chlorhexidine/lidocaine,F
+chlorhexidine/lidocaine,FAILED
 ceftazidime,546.58 g/mol
 phenytoin,252.268 g/mol
 demeclocycline,464.853 g/mol
@@ -267,96 +330,117 @@ pegvisomant,"22129.0 g/mol (un<a href=""/wiki/PEGylation"" title=""PEGylation"">
 ondansetron,293.4 g/mol
 tobramycin,467.515 g/mol
 tetracosactide,4541.135 g/mol
-digoxin-specific antibody,F
+digoxin-specific antibody,FAILED
 zuclopenthixol,400.965 g/mol
 fludarabine,365.212 g/mol
 Nivolumab,143.6 kg/mol
 urokinase,31126.5 g/mol
 docusate,444.56 g/mol
+povidone-iodine,no mwt found
 nefopam,253.34 g/mol
 Mifamurtide,1237.499 g/mol
-insulin soluble,F
+insulin soluble,FAILED
 ulipristal,475.62 g/mol
 etoposide,588.557 g/mol
+aquacel,no mwt found
 nitisinone,329.228 g/mol
 levetiracetam,170.209 g/mol
 triptorelin,1311.5 g/mol
-floseal,F
+floseal,FAILED
 labetalol,328.406 g/mol
+pancreatin,no mwt found
 insulin aspart,5825.8 g/mol
 collagenase clostridium histolyticum,"114 kg/mol (AUX-I)<br/>
 113 kg/mol (AUX-II)"
-immunoglobulin anti-d,F
+immunoglobulin anti-d,FAILED
 Sulfur hexafluoride,146.06 g/mol
 bexarotene,348.478 g/mol
+itraconazole,no mwt found
 dasabuvir,493.58 g/mol
 oxaliplatin,397.2858 g/mol
-amethocaine/tetracaine,F
-sitagliptan,F
+amethocaine/tetracaine,FAILED
+sitagliptan,FAILED
+sevelamer,no mwt found
 remifentanil,376.447 g/mol
 foscarnet,"126.005 g/mol<br/>
 300.1 g/mol <small>(foscarnet trisodium hexahydrate)</small>"
 progesterone,314.46 g/mol
 midodrine,254.282 g/mol
-sodium hyaluronate/sodium chondroitin,F
+sodium hyaluronate/sodium chondroitin,FAILED
 rilpivirine,366.42 g/mol
 nabilone,372.541 g/mol
-potassium chloride,−39.0·10<sup>−6</sup> cm<sup>3</sup>/mol
+levothyroxine,no mwt found
+potassium chloride,no mwt found
+dressing,no mwt found
 irinotecan,"586.678 g/mol (irinotecan)<br/>
 623.139 g/mol (irinotecan <a href=""/wiki/Hydrochloride"" title=""Hydrochloride"">hydrochloride</a>)<br/>
 677.185 g/mol (irinotecan hydrochloride trihydrate)"
 budesonide,430.534 g/mol
 ciprofloxacin,331.346 g/mol
 medroxyprogesterone,344.488 g/mol
-fluocinolone intravitreal,F
+fluocinolone intravitreal,FAILED
 oseltamivir,312.4 g/mol
 codeine,299.364 g/mol
 sodium oxybate,126.09 g/mol
+regorafenib,no mwt found
 isotretinoin,300.44 g/mol
-spacer device,F
+spacer device,FAILED
 atracurium besilate,929.145 g/mol
 linagliptin,472.54 g/mol
 apraclonidine,245.108 g/mol
 ceftriaxone,554.58 g/mol
 dexmedetomidine,200.28 g/mol
 rocuronium bromide,609.678 g/mol
+iron dextran,no mwt found
 mesalazine,153.135 g/mol
+erythromycin,no mwt found
 beclometasone,521.042 g/mol
-potassium chloride/sodium chloride/glucose,F
+potassium chloride/sodium chloride/glucose,FAILED
 busulfan,246.304 g/mol
 oxytocin,1007.19 g/mol
+balanced salt solution,no mwt found
 doxapram,378.507 g/mol
 ketamine,237.725 g/mol
-Radium,"8.5 <a class=""mw-redirect"" href=""/wiki/Kilojoule_per_mole"" title=""Kilojoule per mole"">kJ/mol</a>"
-arsenic,"grey: 24.44 <a class=""mw-redirect"" href=""/wiki/Kilojoule_per_mole"" title=""Kilojoule per mole"">kJ/mol</a>"
+insulin,no mwt found
+Radium,no mwt found
+arsenic,no mwt found
 tranexamic acid,157.21 g/mol
+trientine,no mwt found
+methoxypsoralen,no mwt found
 cisplatin,300.01 g/mol
+methoxy polyethylene glycol-epoetin beta,no mwt found
 levocarnitine,161.199 g/mol
 calcium folinate,473.44 g/mol
 methyl aminolevulinate hydrochloride,145.156 g/mol
+sodium phosphate,no mwt found
 ibuprofen,206.29 g/mol
-insulin soluble (concentrated),F
+insulin soluble (concentrated),FAILED
 caffeine,194.19 g/mol
 tadalafil,389.404 g/mol
-bupivacaine/fentanyl,F
+bupivacaine/fentanyl,FAILED
 ganciclovir,255.23 g/mol
+pregnancy test,no mwt found
 atropine sulfate,289.369 g/mol
 duloxetine,297.41456 g/mol
 parecoxib,370.422 g/mol
 thiotepa,189.23 g/mol
 temozolomide,194.151 g/mol
-allevyn,F
+allevyn,FAILED
+glyceryl trinitrate,no mwt found
 aprotinin,6511.51 g/mol
-insulin aspart biphasic,F
+insulin aspart biphasic,FAILED
 levofloxacin,361.368 g/mol
+interferon alfa,no mwt found
 haloperidol,375.9 g/mol
 triamcinolone,394.434 g/mol
 fluconazole,306.271 g/mol
 diltiazem,414.519 g/mol
 vandetanib,475.354 g/mol
 riociguat,422.415 g/mol
+rifampicin/isoniazid,no mwt found
 gadobutrol,604.710 g/mol
 fluticasone,444.508 g/mol
+senna,no mwt found
 dabigatran etexilate,627.734 g/mol
 idarubicin,497.494 g/mol
 ropivacaine,274.4 g/mol
@@ -372,491 +456,644 @@ ipratropium,412.37 g/mol
 mupirocin,500.622 g/mol
 cyclopentolate,291.385 g/mol
 atovaquone,366.837 g/mol
+pegademase,no mwt found
 gabapentin,171.237 g/mol
 lactulose,342.296 g/mol
 efavirenz,315.675 g/mol
 clopidogrel,321.82 g/mol
+von Willebrand,no mwt found
+ephedrine,no mwt found
 phenoxymethylpenicillin,350.39 g/mol
+glucagon,no mwt found
 acitretin,326.429 g/mol
 verteporfin,718.794 g/mol
-oral film forming agents,F
+larvae,no mwt found
+oral film forming agents,FAILED
 diazepam,284.7 g/mol
 ocriplasmin,27.25 kg/mol
-levobupivacaine/fentanyl,F
+levobupivacaine/fentanyl,FAILED
+gelatin,no mwt found
 levomepromazine,328.47 g/mol
 diclofenac sodium,296.148 g/mol
+acetylcysteine,no mwt found
 oxybutynin,357.486 g/mol
 deferiprone,139.152 g/mol
+sodium citrate,no mwt found
 tolvaptan,448.941 g/mol
 levosimendan,280.28 g/mol
-spill kit,F
+spill kit,FAILED
+capsaicin,no mwt found
 acetazolamide,222.245 g/mol
-patent blue,F
+patent blue,FAILED
 furosemide,330.745 g/mol
+tetanus immunoglobulin,no mwt found
+stiripentol,no mwt found
 phytomenadione,450.70 g/mol
 isoniazid,137.139 g/mol
-taurolidine/citrate,F
-calcium carbonate/colecalciferol,F
-benzalkonium chloride/chlorhexidine hydrochloride/isopropyl myristate/liquid paraffin,F
+taurolidine/citrate,FAILED
+calcium carbonate/colecalciferol,FAILED
+benzalkonium chloride/chlorhexidine hydrochloride/isopropyl myristate/liquid paraffin,FAILED
+azithromycin,no mwt found
 hydroxycarbamide,76.0547 g/mol
 Pixantrone,325.365 g/mol
-codeine phosphate/paracetamol,F
+codeine phosphate/paracetamol,FAILED
 hyoscine butylbromide,360.467 g/mol
+carbidopa/levodopa,no mwt found
 carbimazole,186.233 g/mol
 valproic acid,144.211 g/mol
 podophyllotoxin,414.405 g/mol
 lansoprazole,369.363 g/mol
 glycine,75.07 g/mol
 insulin detemir,5913 g/mol
-nutrison,F
+nutrison,FAILED
 desogestrel,310.473 g/mol
 ivabradine,468.585 g/mol
-insulin biphasic isophane,F
+insulin biphasic isophane,FAILED
 prochlorperazine,373.943 g/mol
+ezetimibe,no mwt found
 thiopental sodium,264.32 g/mol
 ranitidine,314.4 g/mol
 doxorubicin,543.52 g/mol
+industrial methylated spirit,no mwt found
 ofatumumab,146.1 kg/mol
-insulin isophane,F
+insulin isophane,FAILED
 topotecan,457.9 g/mol
+ostomy,no mwt found
 doxycycline,444.43 g/mol
 cytarabine,243.217 g/mol
+protamine sulfate,no mwt found
 hyaluronidase,53870.9 g/mol
-taurolidine/citrate/urokinase,F
-polystyrene sulphonate resins,F
+taurolidine/citrate/urokinase,FAILED
+polystyrene sulphonate resins,FAILED
 regadenoson,390.354 g/mol
-diphtheria/tetanus/polio,F
-mepilex,F
+diphtheria/tetanus/polio,FAILED
+mepilex,FAILED
 oxybuprocaine,308.41 g/mol
-lidocaine/lignocaine,F
+lidocaine/lignocaine,FAILED
 dantrolene,314.253 g/mol
 hyoscine hydrobromide,303.353 g/mol
 amiodarone,645.31 g/mol
-potassium chloride/glucose,F
+potassium chloride/glucose,FAILED
 treprostinil,390.52 g/mol
+fomepizole,no mwt found
 carboprost,368.508 g/mol
 metoclopramide,299.80 g/mol
 Liraglutide,3751.202 g/mol
-volumatic,F
+volumatic,FAILED
 adenosine,267.241 g/mol
 mitotane,320.04 g/mol
 methylphenidate,233.31 g/mol
+lidocaine/prilocaine,no mwt found
+fusidic acid,no mwt found
 raltitrexed,458.489 g/mol
+fluorescein sodium,no mwt found
 aflibercept,96.90 kg/mol
 spironolactone,416.574 g/mol
+nystatin,no mwt found
 loperamide,477.037 g/mol (513.506 with HCl)
 argatroban,508.635 g/mol
-meningococcal b,F
+meningococcal b,FAILED
+multivitamins,no mwt found
+isopropyl,no mwt found
 mirabegron,396.506 g/mol
 ranolazine,427.537 g/mol
 suxamethonium chloride,290.399 g/mol
-taurolidine/citrate/heparin,F
+taurolidine/citrate/heparin,FAILED
 azathioprine,277.263 g/mol
 sulfapyridine,249.29 g/mol
-betamethasone/calciptriol,F
+betamethasone/calciptriol,FAILED
 ethinylestradiol,296.403 g/mol
-sodium chloride/glucose,F
+sodium chloride/glucose,FAILED
 ferrous sulfate,"151.91 g/mol (anhydrous)<br/>
 169.93 g/mol (monohydrate)<br/>
 241.99 g/mol (pentahydrate)<br/>
 260.00 g/mol (hexahydrate)<br/>
 278.02 g/mol (heptahydrate)"
 rifampicin,822.94 g/mol
-magnesium glycerophosphate,F
+magnesium glycerophosphate,FAILED
+thiamine,no mwt found
 sodium phenylbutyrate,186.2 g/mol
-dexamethasone/hypromellose,F
-ethyl chloride,"11.1 L·atm/mol (24 °C)<sup class=""reference"" id=""cite_ref-pubchem_1-2""><a href=""#cite_note-pubchem-1"">[1]</a></sup>"
+dexamethasone/hypromellose,FAILED
+betaine,no mwt found
+danaparoid,no mwt found
+ethyl chloride,no mwt found
+diprobase,no mwt found
 nortriptyline,263.38 g/mol
 ursodeoxycholic acid,392.56 g/mol
 desmopressin,1069.22 g/mol
 streptozocin,265.221 g/mol
-liquid paraffin/white soft paraffin,F
-sodium pentosan pentaphosphate,F
+liquid paraffin/white soft paraffin,FAILED
+sodium pentosan pentaphosphate,FAILED
 vincristine,824.958 g/mol
+mepitel,no mwt found
 baclofen,213.661 g/mol
 alfacalcidol,400.64 g/mol
 mifepristone,429.60 g/mol
 cladribine,285.687 g/mol
 procarbazine,221.299 g/mol
+macrogol,no mwt found
+atorvastatin,no mwt found
+clobazam,no mwt found
 sodium acid phosphate,221.94 g/mol
 isosorbide mononitrate,191.139 g/mol
 carglumic acid,190.2 g/mol
 perampanel,349.384 g/mol
+ergometrine/oxytocin,no mwt found
 metformin,129.16364 g/mol
-chenodeoxycholic Acid,F
+aldesleukin,no mwt found
+chenodeoxycholic Acid,FAILED
 degarelix,1630.75 g/mol
-dronabinol/cannabidiol,F
+dronabinol/cannabidiol,FAILED
 sucralfate,"2086.75 g/mol<sup class=""reference"" id=""cite_ref-Merck_1-1""><a href=""#cite_note-Merck-1"">[1]</a></sup>"
-lidocaine/fluorescein,F
+lidocaine/fluorescein,FAILED
+estriol,no mwt found
 dapsone,248.302 g/mol
 Ramucirumab,143.6 kg/mol
 lamivudine,229.26 g/mol
 simeprevir,749.94 g/mol
-bupivacaine/glucose,F
+calogen,no mwt found
+bupivacaine/glucose,FAILED
 aspirin,180.157 g/mol
 pantoprazole,383.371 g/mol
 alimemazine,298.447 g/mol
 lapatinib,581.058 g/mol
-indocyanine,F
+bleomycin,no mwt found
+indocyanine,FAILED
 lomustine,233.695 g/mol
 cidofovir,279.187 g/mol
-hydroxypropylmethylcellulose,F
+hydroxypropylmethylcellulose,FAILED
 milrinone,211.219 g/mol
 diazoxide,230.672 g/mol
-lanthanum,"6.20 <a class=""mw-redirect"" href=""/wiki/Kilojoule_per_mole"" title=""Kilojoule per mole"">kJ/mol</a>"
+lanthanum,no mwt found
 fluphenazine,437.523 g/mol
 tenecteplase,58951.2 g/mol
-magnesium-L-aspartate,F
-dexamethasone/framycetin/gramicidin,F
+magnesium-L-aspartate,FAILED
+dexamethasone/framycetin/gramicidin,FAILED
 testosterone,288.42 g/mol
-betamethasone/clioquinol,F
-silver nitrate,−45.7·10<sup>−6</sup> cm<sup>3</sup>/mol
-artificial saliva,F
+betamethasone/clioquinol,FAILED
+silver nitrate,no mwt found
+artificial saliva,FAILED
+clonazepam,no mwt found
 chlorambucil,304.212 g/mol
 sodium picosulfate,481.409 g/mol
-insulin lispro biphasic,F
-sodium glycerophosphate,F
-grass and tree pollen extracts,F
-dantron/poloxamer,F
+insulin lispro biphasic,FAILED
+sodium glycerophosphate,FAILED
+grass and tree pollen extracts,FAILED
+ethinylestradiol/levonorgestrel,no mwt found
+dantron/poloxamer,FAILED
+resource,no mwt found
 dacarbazine,182.18 g/mol
-lutetium dotatate,F
+lutetium dotatate,FAILED
 alprostadil,354.481 g/mol
 mebeverine,429.6 g/mol
-compound alginate preparations,F
+compound alginate preparations,FAILED
+calcium gluconate,no mwt found
+ubidecarenone,no mwt found
 bumetanide,364.417 g/mol
 tetracaine,264.363 g/mol
 lacosamide,250.294 g/mol
 ofloxacin,361.368 g/mol
-fresubin,F
+fresubin,FAILED
 captopril,217.29 g/mol
 metyrapone,226.274 g/mol
 bedaquiline,555.5 g/mol
-methylprednisolone/lidocaine,F
+methylprednisolone/lidocaine,FAILED
 mecasermin,7648.67 g/mol
 ascorbic acid,176.12 g/mol
+Ioversol,no mwt found
 isoflurane,184.5 g/mol
 nimodipine,418.44 g/mol
 phenobarbital,232.235 g/mol
-fluticasone/vilanterol,F
+fluticasone/vilanterol,FAILED
 moxifloxacin,401.431 g/mol
-lubricating jelly,F
+lubricating jelly,FAILED
+rosuvastatin,no mwt found
 esmolol,295.374 g/mol
-chlorhexidine/neomycin,F
-mannitol DPI,F
-cytomegalovirus immunoglobulin,F
-dexamethasone/hypromellose/neomycin/polymixin b,F
-emulsifying wax/yellow soft paraffin/liquid paraffin,F
+chlorhexidine/neomycin,FAILED
+mannitol DPI,FAILED
+cytomegalovirus immunoglobulin,FAILED
+dexamethasone/hypromellose/neomycin/polymixin b,FAILED
+emulsifying wax/yellow soft paraffin/liquid paraffin,FAILED
 atomoxetine,"255.36 g/mol<br/>
 291.81 g/mol (hydrochloride)"
 prasugrel,373.442 g/mol
 clobetasol,466.97 g/mol
 interferon gamma,17145.6 g/mol
+menadiol,no mwt found
 clotrimazole,344.837 g/mol
 dactinomycin,1255.42 g/mol
 botulinum toxin type b,"150 kg/mol (150,000 g/mol)"
-neostigmine/glycopyrronium,F
-hylan G-F20,F
+cardioplegia,no mwt found
+neostigmine/glycopyrronium,FAILED
+ethambutol,no mwt found
+hylan G-F20,FAILED
 clonidine,230.093 g/mol
 pyrazinamide,123.113 g/mol
 hydralazine,160.176 g/mol
 cetrorelix,1431.06 g/mol
 trametinib,615.39 g/mol
 palonosetron,296.407 g/mol
-mercaptamine(cysteamine),F
-meglumine gadopentetate,F
+mercaptamine(cysteamine),FAILED
+meglumine gadopentetate,FAILED
 rasagiline,171.238 g/mol
+ethinylestradiol/norelgestromin,no mwt found
 Sodium Iodide,149.89 g/mol
-Aluminium hydroxide/Magnesium hydroxide/Oxetacaine,F
+Aluminium hydroxide/Magnesium hydroxide/Oxetacaine,FAILED
 pentamidine,340.42 g/mol
 fampridine,94.1146 g/mol
-peptamen,F
+peptamen,FAILED
 indigo carmine,466.36 g/mol
-citric acid/magnesium carbonate,F
+citric acid/magnesium carbonate,FAILED
 colesevelam,618.24888 g/mol
+mannitol,no mwt found
+hexamethyldisiloxane,no mwt found
 vinblastine,810.975 g/mol
-lipegfilgrastim,F
+fibrinogen,no mwt found
+lipegfilgrastim,FAILED
 carfilzomib,719.91 g/mol
+ferrous fumarate,no mwt found
+abacavir/lamivudine/zidovudine,no mwt found
+haem arginate,no mwt found
+dorzolamide/timolol,no mwt found
 barium sulfate,233.38 g/mol
 emtricitabine,247.248 g/mol
 tretinoin,300.4412 g/mol
+dexamfetamine,no mwt found
 sulfasalazine,398.394 g/mol
 buserelin,1239.42 g/mol
 brinzolamide,383.51 g/mol
 icodextrin,13–19 kg/mol
 vecuronium bromide,637.73 g/mol
-hydrocortisone/gentamicin,F
+rehydration salts,no mwt found
+hydrocortisone/gentamicin,FAILED
 lorazepam,321.2 g/mol
 carbamazepine,236.269 g/mol
 atosiban,994.199 g/mol
-benserazide/levodopa,F
+benserazide/levodopa,FAILED
 primidone,218.252 g/mol
 zidovudine,267.242 g/mol
-bone cement/tobramycin,F
+naloxone,no mwt found
+E45,no mwt found
+bone cement/tobramycin,FAILED
+carbomer,no mwt found
 lurasidone,492.68 g/mol
-fluticasone/formoterol,F
+fluticasone/formoterol,FAILED
 temazepam,300.7 g/mol
 granisetron,312.41 g/mol
 cefotaxime,455.47 g/mol
-hexaminolevulinate,F
+hexaminolevulinate,FAILED
 amantadine,151.249 g/mol
 esomeprazole,345.417 g/mol
 cocaine,303.353 g/mol
 cefoxitin,427.454 g/mol
 estradiol,272.38 g/mol
-Vitlipid N,F
+Vitlipid N,FAILED
 procyclidine,323.9 g/mol
 tramadol,263.4 g/mol
-sundries/supplychain,F
+sundries/supplychain,FAILED
 dihydrocodeine,301.38 g/mol
-B.I.P.P.,F
+arachis oil,no mwt found
+neocate,no mwt found
+B.I.P.P.,FAILED
 amisulpride,369.48 g/mol
-solivito,F
+solivito,FAILED
 ketorolac,255.27 g/mol
 trimethoprim,290.32 g/mol
+treosulfan,no mwt found
 insulin lispro,5813.63 g/mol
 isavuconazole,437.47 g/mol
 terbutaline,225.284 g/mol
 pancuronium bromide,572.861 g/mol
+levodopa/carbidopa/entacapone,no mwt found
 hydroxocobalamin,1346.37 g/mol
-emtricitabine/raltegravir/tenofovir disoproxil,F
+emtricitabine/raltegravir/tenofovir disoproxil,FAILED
 gadoteridol,558.68 g/mol
 Idarucizumab,47.8 kg/mol
 zonisamide,212.227 g/mol
 fosaprepitant,614.406 g/mol
 Aminolevulinic acid hydrochloride,131.13 g/mol
+aclidinium bromide,no mwt found
 prucalopride,367.870 g/mol
 mexiletine,179.259 g/mol
-human alpha-1-proteinase inhibitor,F
+folic acid,no mwt found
+human alpha-1-proteinase inhibitor,FAILED
 nifedipine,346.335 g/mol
 propranolol,259.34 g/mol
 silver sulfadiazine,357.14 g/mol
+thrombin,no mwt found
+peak flow meter,no mwt found
 memantine,179.3 g/mol
+rifampicin/isoniazid/pyrazinamide,no mwt found
 isosorbide dinitrate,236.136 g/mol
 dexrazoxane,268.269 g/mol
-ethinylestradiol/desogestrel,F
+ethinylestradiol/desogestrel,FAILED
 quetiapine,383.5099 g/mol
-sodium chondroitin,F
+sodium chondroitin,FAILED
 ingenol mebutate,430.534 g/mol
 insulin degludec,6103.972 g/mol
+chloral hydrate,no mwt found
 adefovir,273.186 g/mol
 naproxen,230.259 g/mol
-disodium folinate,F
-wasp venom,F
+disodium folinate,FAILED
+peppermint,no mwt found
+sodium fusidate,no mwt found
+dimethyl sulfoxide,no mwt found
+trace elements,no mwt found
+wasp venom,FAILED
+blood glucose monitoring,no mwt found
 exenatide,4186.6 g/mol
 pramipexole,211.324 g/mol
+salmeterol,no mwt found
 bisoprolol,325.443 g/mol
+pyridoxine,no mwt found
 pentostatin,268.269 g/mol
 propylthiouracil,170.233 g/mol
-dicycloverine hydrochloride,F
+dicycloverine hydrochloride,FAILED
 ganirelix,1570.4 g/mol
-isopropyl myristate/liquid paraffin,F
-sodium feredetate,F
+isopropyl myristate/liquid paraffin,FAILED
+colchicine,no mwt found
+sodium feredetate,FAILED
 domperidone,425.911 g/mol
-bone cement/gentamicin/clindamycin,F
-paricalcitrol,F
-hepatitis b immunoglobulin,F
+bone cement/gentamicin/clindamycin,FAILED
+paricalcitrol,FAILED
+hepatitis b immunoglobulin,FAILED
 carbetocin,988.162 g/mol
-tropicamide/phenylephrine,F
-saquinavir mesilate,F
+tropicamide/phenylephrine,FAILED
+saquinavir mesilate,FAILED
 tapentadol,221.339 g/mol
 rivastigmine,250.337 g/mol
-clobetasol/neomycin/nystatin,F
+Cabozantinib,no mwt found
+octenidine,no mwt found
+clobetasol/neomycin/nystatin,FAILED
+sodium benzoate,no mwt found
+amifampridine,no mwt found
 lamotrigine,256.091 g/mol
+hypromellose,no mwt found
 valaciclovir,324.336 g/mol
 latanoprost,432.593 g/mol
 pirenzepine,351.403 g/mol
-cetrimide/chlorhexidine,F
+cetrimide/chlorhexidine,FAILED
 dapagliflozin,408.873 g/mol
 mirtazapine,265.35 g/mol
+mometasone,no mwt found
 mepacrine,399.957 g/mol
+carmellose,no mwt found
 promethazine,284.42 g/mol
+taurolidine,no mwt found
 cycloserine,102.092 g/mol
-blood monitoring,F
-nutilis,F
+blood monitoring,FAILED
+nutilis,FAILED
 pivmecillinam,439.569 g/mol
 carbex,187.281 g/mol
-ascorbic acid/nicotinamide/pyridoxine/riboflavin/thiamine,F
+ascorbic acid/nicotinamide/pyridoxine/riboflavin/thiamine,FAILED
 digoxin,780.949 g/mol
+eplerenone,no mwt found
 artesunate,384.421 g/mol
 chlorothiazide,295.72 g/mol
 phenoxybenzamine,303.826 g/mol
+dexamethasone/tobramycin,no mwt found
 fludrocortisone,380.45 g/mol
 cisatracurium besilate,929.145 g/mol
 flucytosine,129.093 g/mol
-ethinylestradiol/drospirenone,F
-probiotic lactic acid bacteria,F
-urgotul,F
+trypan blue,no mwt found
+aqueous cream,no mwt found
+factor X,no mwt found
+ethinylestradiol/drospirenone,FAILED
+probiotic lactic acid bacteria,FAILED
+urgotul,FAILED
+Antilymphocyte immunoglobulin,no mwt found
 diethylstilbestrol,268.35 g/mol
 simvastatin,418.566 g/mol
 dronedarone,556.758 g/mol
 verapamil,454.602 g/mol
 calcium levofolinate,473.44 g/mol
 amlodipine,408.879 g/mol
-fusidic acid/betamethasone,F
+fusidic acid/betamethasone,FAILED
 metoprolol,267.364 g/mol
+carmustine implant,no mwt found
 sodium clodronate,244.892 g/mol
-lithium,"3.00 <a class=""mw-redirect"" href=""/wiki/Kilojoule_per_mole"" title=""Kilojoule per mole"">kJ/mol</a>"
+lithium,no mwt found
 blinatumomab,54.1 kg/mol
-biatain,F
-hepatitisA/hepatitisB,F
-enteral feeds,F
+biatain,FAILED
+hepatitisA/hepatitisB,FAILED
+enteral feeds,FAILED
 sertraline,306.229 g/mol
-acetic acid,-31.54·10<sup>−6</sup> cm<sup>3</sup>/mol
+acetic acid,no mwt found
+human papilloma virus,no mwt found
+polihexanide,no mwt found
 warfarin sodium,308.33 g/mol
+intra-uterine device,no mwt found
 enoximone,248.302 g/mol
 bimatoprost,415.566 g/mol
-timolol/bimatoprost,F
+timolol/bimatoprost,FAILED
+vitamin E,no mwt found
 calcium carbonate,100.0869 g/mol
 galantamine,287.354 g/mol
 travoprost,500.548 g/mol
 mivacurium chloride,1029.26 g/mol
-ifosfamide/mesna,F
+ifosfamide/mesna,FAILED
 nitrazepam,281.3 g/mol
 sapropterin,241.25 g/mol
 eptifibatide,831.96 g/mol
 leflunomide,270.207 g/mol
 ramipril,416.511 g/mol
+bee venom,no mwt found
+duoderm,no mwt found
 Siltuximab,145.0 kg/mol
 venlafaxine,277.402 g/mol
-peditrace,F
+gonadorelin,no mwt found
+peditrace,FAILED
 nicorandil,211.175 g/mol
 sumatriptan,295.402 g/mol
 rifabutin,847.005 g/mol
-formaldehyde,-18.6·10<sup>−6</sup> cm<sup>3</sup>/mol
+dressings,no mwt found
+formaldehyde,no mwt found
 cefalexin,347.39 g/mol
 ketoconazole,531.431 g/mol
-vitamin b compound strong,F
-pneumococcal polysaccharide conjugate,F
+vitamin b compound strong,FAILED
+pneumococcal polysaccharide conjugate,FAILED
+varicella-zoster,no mwt found
+Fludeoxyglucose,no mwt found
 acamprosate,181.211 g/mol
+tamsulosin,no mwt found
 chlordiazepoxide,299.75 g/mol
 ceritinib,558.14 g/mol
-Yellow soft paraffin,F
+phenol,no mwt found
+Yellow soft paraffin,FAILED
 hydroxychloroquine,335.872 g/mol
+polyfax,no mwt found
+protein c,no mwt found
 pimecrolimus,810.453 g/mol
+diaminopyridine,no mwt found
 cyanocobalamin,1355.38 g/mol
 tafamidis,308.116 g/mol
-peracetic,F
-n-butyl cyanoacrylate,F
+peracetic,FAILED
+n-butyl cyanoacrylate,FAILED
 colestyramine,"In average, exceeds 1×10<sup>6</sup> g/mol"
 fesoterodine,411.278 g/mol
 amitriptyline,277.403 g/mol
+potassium phosphate,no mwt found
 phenindione,222.239 g/mol
 clobetasone,408.891 g/mol
 potassium citrate,306.395 g/mol
+fortisip,no mwt found
 ziconotide,2639 g/mol
 atenolol,266.336 g/mol
 oxymetholone,332.48 g/mol
-citric acid,"−1548.8 kJ/mol<sup class=""reference"" id=""cite_ref-pubchem_2-3""><a href=""#cite_note-pubchem-2"">[2]</a></sup>"
+citric acid,no mwt found
 gliclazide,323.412 g/mol
 methadone,309.445 g/mol
-sargramostin,F
+sargramostin,FAILED
 pyridostigmine,181.212 g/mol
 flunarizine,404.495 g/mol
-paracetamol/dihydrocodeine,F
-flaminal,F
+paracetamol/dihydrocodeine,FAILED
+flaminal,FAILED
 fosamprenavir,"585.608 g/mol<br/>
 623.700 g/mol (<a href=""/wiki/Calcium"" title=""Calcium"">calcium</a> salt)"
+nitric oxide,no mwt found
+antithrombin III,no mwt found
 pilocarpine,208.257 g/mol
+enbucrilate,no mwt found
 saxagliptin,315.41 g/mol
+menthol,no mwt found
 riluzole,234.199 g/mol
+aminosalicylic acid,no mwt found
 etoricoxib,358.842 g/mol
+acetylcholine,no mwt found
 dipyridamole,504.626 g/mol
-disodium pamidronate,F
+osimertinib,no mwt found
+disodium pamidronate,FAILED
 doxepin,279.376 g/mol
-infatrini,F
+infatrini,FAILED
 trimipramine,294.434 g/mol
-sorbsan,F
+sorbsan,FAILED
 gemtuzumab,151–153 g/mol
 aminophylline,420.427 g/mol
+glucarpidase,no mwt found
 sulfadiazine,250.278 g/mol
 trihexyphenidyl,301.466 g/mol
 trifluoperazine,407.497 g/mol
 mitoxantrone,444.481 g/mol
-ergocalciferol/calciferol,F
-rifampicin/isoniazid/pyrazinamide/ethambutol,F
+ergocalciferol/calciferol,FAILED
+rifampicin/isoniazid/pyrazinamide/ethambutol,FAILED
 Nepafenac,254.28 g/mol
 meptazinol,233.34922 g/mol
-elemental 028,F
+elemental 028,FAILED
 dorzolamide,324.443 g/mol
 misoprostol,382.534 g/mol
 dobutamine,301.38 g/mol
-modulen,F
+modulen,FAILED
 Linaclotide,1526.74 g/mol
 theophylline,180.164 g/mol
-vitamin b compound,F
+vitamin b compound,FAILED
 prilocaine,220.311 g/mol
 trospium,427.964 g/mol
+liquid paraffin,no mwt found
+chorionic gonadotropin,no mwt found
 dutasteride,528.53 g/mol
+omega,no mwt found
 citalopram,324.392 g/mol
-titanium,"14.15 <a class=""mw-redirect"" href=""/wiki/Kilojoule_per_mole"" title=""Kilojoule per mole"">kJ/mol</a>"
+titanium,no mwt found
 zanamivir,332.31 g/mol
-multinutrients,F
+rufinamide,no mwt found
+multinutrients,FAILED
 papaverine,339.385 g/mol
-activheal,F
-clobetasone/oxytetracycline/nystatin,F
-glycerol,-57.06·10<sup>−6</sup> cm<sup>3</sup>/mol
-mefenamic,F
+activheal,FAILED
+clobetasone/oxytetracycline/nystatin,FAILED
+glycerol,no mwt found
+mefenamic,FAILED
+choriogonadotropin alfa,no mwt found
+lamivudine/zidovudine,no mwt found
 donepezil,379.492 g/mol
+aveeno,no mwt found
 nitazoxanide,307.283 g/mol
 bisacodyl,361.391 g/mol
 oxandrolone,306.44 g/mol
-isopropyl alcohol/Chlorhexidine,F
-liquiband,F
+isopropyl alcohol/Chlorhexidine,FAILED
+hepatitis A,no mwt found
+liquiband,FAILED
 brinzolamide/timolol,383.51 g/mol
 norethisterone,298.419 g/mol
 nelarabine,297.268 g/mol
 cyproterone,374.90098 g/mol
 griseofulvin,352.766 g/mol
 phentolamine,281.352 g/mol
+ispaghula,no mwt found
 topiramate,339.363 g/mol
 magnesium oxide,"40.304 g/mol<sup class=""reference"" id=""cite_ref-b92_1-0""><a href=""#cite_note-b92-1"">[1]</a></sup>"
-calcium acetate,-70.7·10<sup>−6</sup> cm<sup>3</sup>/mol
-fentanyl/levobupivicaine,F
-netupitant /palonosetron,F
+calcium acetate,no mwt found
+fentanyl/levobupivicaine,FAILED
+netupitant /palonosetron,FAILED
 bivalirudin,2180.29 g/mol
-urea/lauromacrogols,F
+acid citrate dextrose,no mwt found
+urea/lauromacrogols,FAILED
 clomifene,406 or 598.10 g/mol (with citrate)
+boceprevir,no mwt found
+arginine,no mwt found
+calcitonin,no mwt found
 zopiclone,388.808 g/mol
 Panobinostat,349.42622 g/mol
-perfadex,F
+factor XI,no mwt found
+simeticone,no mwt found
+perfadex,FAILED
+belatacept,no mwt found
 amsacrine,393.46 g/mol
 tranylcypromine,133.19 g/mol
-acticoat,F
-ethinylestradiol/norgestimate,F
+acticoat,FAILED
+quinine,no mwt found
+ethinylestradiol/norgestimate,FAILED
+bone cement,no mwt found
 montelukast,586.184 g/mol
 pethidine,247.33g/mol
 gemeprost,394.545 g/mol
 varenicline,211.267 g/mol
-xylometazoline hydrochloride,F
+xylometazoline hydrochloride,FAILED
 ropinirole,260.375 g/mol
 flecainide,414.343 g/mol
-immunoglobulin normal human/hyaluronidase,F
-thick and easy,F
+immunoglobulin normal human/hyaluronidase,FAILED
+pristinamycin,no mwt found
+thick and easy,FAILED
 natamycin,665.725 g/mol
-scandishake,F
-clotrimazole/hydrocortisone,F
+Sudocrem,no mwt found
+scandishake,FAILED
+clotrimazole/hydrocortisone,FAILED
+talc,no mwt found
+benzathine benzylpenicillin,no mwt found
 sulpiride,341.427 g/mol
+amphotericin,no mwt found
 bicalutamide,430.373 g/mol
+kaltostat,no mwt found
 doxazosin,451.475 g/mol
 capreomycin,668.706 g/mol
+honey,no mwt found
 albendazole,265.333 g/mol
-desferrioxamine/hydrocortisone,F
+streptokinase,no mwt found
+lymecycline,no mwt found
+desferrioxamine/hydrocortisone,FAILED
+sodium aurothiomalate,no mwt found
 adapalene,412.52 g/mol
-glucose/prilocaine,F
-Meningococcal A + C + W135 + Y,F
-polycal,F
-Oxycodone/Naloxone,F
+anusol,no mwt found
+glucose/prilocaine,FAILED
+Meningococcal A + C + W135 + Y,FAILED
+polycal,FAILED
+Oxycodone/Naloxone,FAILED
 dopexamine,429.43 g/mol
-timolol/travoprost,F
+miconazole/hydrocortisone,no mwt found
+activated charcoal,no mwt found
+timolol/travoprost,FAILED
+short chain fatty acid,no mwt found
 fexofenadine,501.68 g/mol
-potassium chloride/sodium chloride/magnesium,F
-diclofenac sodium/sodium hyaluronate,F
-Sodium dihydrogen phosphate dihydrate,F
+potassium chloride/sodium chloride/magnesium,FAILED
+diclofenac sodium/sodium hyaluronate,FAILED
+Sodium dihydrogen phosphate dihydrate,FAILED
 promazine,284.42 g/mol
 Lenvatinib,426.853 g/mol
+epoetin zeta,no mwt found
 Canagliflozin,444.52 g/mol
 tetrabenazine,317.427 g/mol
+ipratropium/salbutamol,no mwt found
 ergometrine,325.41 g/mol
+opsite,no mwt found
 bromocriptine,654.595 g/mol
 cabergoline,451.604 g/mol
 ibandronic acid,319.229 g/mol
@@ -864,1273 +1101,1600 @@ calcipotriol,412.605 g/mol
 timolol,316.421 g/mol
 sodium tetradecyl,316.43243 g/mol
 calcitriol,416.64 g/mol
-eclypse,F
+eclypse,FAILED
+imipenem/cilastatin,no mwt found
 prothionamide,180.271 g/mol
-intrasite,F
-calcium lactate gluconate/ calcium carbonate,F
+intrasite,FAILED
+calcium lactate gluconate/ calcium carbonate,FAILED
+fluoxetine,no mwt found
 miconazole,416.127 g/mol
-Helicobacter Pylori Breath Test,F
+Helicobacter Pylori Breath Test,FAILED
 formoterol,344.405 g/mol
 hydrogen peroxide,34.0147 g/mol
+temsirolimus,no mwt found
 olopatadine,337.412 g/mol
-sodium pidolate,F
+sodium pidolate,FAILED
 zinc oxide,81.38 g/mol
+tiopronin,no mwt found
 allopurinol,136.112 g/mol
-fusidic acid/hydrocortisone,F
+fusidic acid/hydrocortisone,FAILED
 cholesterol,386.65 g/mol
 tioguanine,167.193 g/mol
 Delamanid,534.48 g/mol
 lercanidipine,611.727 g/mol
+empagliflozin,no mwt found
 febuxostat,316.374 g/mol
-dexamethasone/neomycin/glacial acetic acid,F
+proflavine,no mwt found
+dexamethasone/neomycin/glacial acetic acid,FAILED
 amiloride,229.627 g/mol
 pitolisant,295.846 g/mol
+dopamine,no mwt found
 olaparib,435.08 g/mol
 primaquine,259.347 g/mol
+alcohol,no mwt found
 sodium dichloroisocyanurate,"219.95 g/mol (anhydrous)<br/>
 <p>255.98 g/mol (dihydrate)</p>
 "
-cadexomer-iodine,F
+cadexomer-iodine,FAILED
 tetrofosmin,895.813 g/mol
-betamethasone/neomycin,F
+betamethasone/neomycin,FAILED
 tolterodine,325.488 g/mol
 belimumab,151.8 kg/mol
 hydromorphone,285.3g/mol
 famciclovir,321.332 g/mol
 isoprenaline,211.258 g/mol
 etomidate,244.289 g/mol
+l-glutamine,no mwt found
+sodium nitroprusside,no mwt found
 nafarelin,1321.6344 g/mol
 flumazenil,303.288 g/mol
 lofexidine,259.131 g/mol
 miltefosine,407.568 g/mol
 alogliptin,339.39 g/mol
 fluorometholone,376.462 g/mol
-perfluoctane,F
+perfluoctane,FAILED
 loteprednol,466.951 g/mol
-nutriprem,F
+nutriprem,FAILED
 finasteride,372.549 g/mol
 ivermectin,875.10 g/mol
-diphtheria/tetanus/pertussis/polio,F
-citric acid monohydrate,F
-ethinylestradiol/gestodene,F
+diphtheria/tetanus/pertussis/polio,FAILED
+citric acid monohydrate,FAILED
+ethinylestradiol/gestodene,FAILED
+praziquantel,no mwt found
 edoxaban,548.056 g/mol
 candesartan,440.45 g/mol
-betamethasone/salicylic acid,F
-cocaine/adrenaline,F
-liquid paraffin light,F
+betamethasone/salicylic acid,FAILED
+cocaine/adrenaline,FAILED
+liquid paraffin light,FAILED
 sodium cromoglicate,468.367 g/mol
-pneumococcal polysaccharide,F
-measles/mumps/rubella,F
-pepti-junior,F
-jevity,F
+pneumococcal polysaccharide,FAILED
+permethrin,no mwt found
+measles/mumps/rubella,FAILED
+pepti-junior,FAILED
+jevity,FAILED
 chlorpromazine,"318.86 g/mol (free base)<br/>
 355.33 g/mol (hydrochloride)"
 eslicarbazepine,296.320 g/mol
 ampicillin,349.41 g/mol
+rabies,no mwt found
+phosphates,no mwt found
 Idebenone,338.439 g/mol
 droperidol,379.428 g/mol
+ethanolamine,no mwt found
 cetirizine,388.89 g/mol
-adrenaline/articaine,F
-bone cement/erythromycin/colistin,F
+adrenaline/articaine,FAILED
+bone cement/erythromycin/colistin,FAILED
 tamoxifen,"371.515 g/mol<br/>
 563.638 g/mol (<a class=""mw-redirect"" href=""/wiki/Citrate"" title=""Citrate"">citrate</a> salt)"
 modafinil,273.35 g/mol
-nutramigen,F
+nutramigen,FAILED
 lisinopril,405.488 g/mol
-simple eye ointment,F
+simple eye ointment,FAILED
 flurbiprofen,244.261 g/mol
 potassium canrenoate,396.5616 g/mol
 fluocinolone,452.488 g/mol
 oxcarbazepine,252.268 g/mol
 potassium permanganate,158.034 g/mol
 tipranavir,602.66 g/mol
-diphtheria/tetanus/polio/haemophilus b,F
+alendronic acid,no mwt found
+diphtheria/tetanus/polio/haemophilus b,FAILED
 methyldopa,211.215 g/mol
-nitrogen,"(N<sub>2</sub>) 0.72 <a class=""mw-redirect"" href=""/wiki/Kilojoule_per_mole"" title=""Kilojoule per mole"">kJ/mol</a>"
-human plasma proteins,F
+nitrogen,no mwt found
+human plasma proteins,FAILED
 tedizolid phosphate,370.338 g/mol
-light paraffin liquid,F
-white soft paraffin/liquid paraffin,F
-emulsifying ointment,F
-brinzolamide/brimonidine,F
-clioquinol/flumethasone,F
+light paraffin liquid,FAILED
+coal tar,no mwt found
+white soft paraffin/liquid paraffin,FAILED
+emulsifying ointment,FAILED
+brinzolamide/brimonidine,FAILED
+clioquinol/flumethasone,FAILED
 urofollitropin,22672.9 g/mol
-sodium 3-hydroxybutyrate,F
-Atrauman,F
+sodium 3-hydroxybutyrate,FAILED
+Atrauman,FAILED
 orlistat,495.735 g/mol
 vigabatrin,129.157 g/mol
 letrozole,285.303 g/mol
 magnesium hydroxide,58.3197 g/mol
-sodium phosphate/sodium acid phosphate,F
-actiform,F
-prontoderm,F
-actico,F
-alverine citrate,F
+sodium phosphate/sodium acid phosphate,FAILED
+actiform,FAILED
+choline salicylate,no mwt found
+prontoderm,FAILED
+actico,FAILED
+alverine citrate,FAILED
 agomelatine,243.301 g/mol
-aclidinium bromide/formoterol,F
+aclidinium bromide/formoterol,FAILED
 droxidopa,213.18734 g/mol
-jevity plus,F
-silvercel,F
+jevity plus,FAILED
+silvercel,FAILED
 losartan,422.91 g/mol
-lidocaine/adrenaline/tetracaine,F
+lidocaine/adrenaline/tetracaine,FAILED
 mepivacaine,246.348 g/mol
 indapamide,365.835 g/mol
+proguanil/atovaquone,no mwt found
 propantheline,368.489 g/mol
-acetone,-33.78·10<sup>−6</sup> cm<sup>3</sup>/mol
+quinupristin/dalfopristin,no mwt found
+acetone,no mwt found
 eflornithine,182.2 g/mol
 minoxidil,209.251 g/mol
 disulfiram,296.539 g/mol
 cloral betaine,281.541 g/mol
-benzalkonium chloride/chlorhexidine hydrochloride/isopropyl myristate/liquis paraffin,F
+benzalkonium chloride/chlorhexidine hydrochloride/isopropyl myristate/liquis paraffin,FAILED
+ethinylestradiol/norethisterone,no mwt found
 entacapone,305.286 g/mol
 naloxegol,651.785 g/mol
 ciclesonide,540.688 g/mol
 exemestane,296.403 g/mol
+alginate,no mwt found
 orphenadrine,269.381 g/mol
 insulin glulisine,5823 g/mol
 phenylbutazone,308.374 g/mol
 brimonidine,292.135 g/mol
 cinnarizine,368.514 g/mol
 exametazime,384.3655 g/mol
+heparinoid,no mwt found
 cefixime,453.452 g/mol
+potassium ascorbate,no mwt found
 balsalazide,357.318 g/mol
 fludroxycortide,436.514 g/mol
-prilocaine/felypressin,F
-tryptophan,-132.0·10<sup>−6</sup> cm<sup>3</sup>/mol
+prilocaine/felypressin,FAILED
+tryptophan,no mwt found
 paroxetine,329.3 g/mol
-twocal,F
-dantron/docusate sodium,F
+twocal,FAILED
+dantron/docusate sodium,FAILED
+rotavirus,no mwt found
+olive oil,no mwt found
 megestrol,342.472 g/mol
 bezafibrate,361.819 g/mol
 cholic acid,408.57 g/mol
+hydroxyethylcellulose,no mwt found
 zinc sulfate,"161.47 g/mol (anhydrous)<br/>
 179.47 g/mol (monohydrate)<br/>
 287.53 g/mol (heptahydrate)"
-isopropyl alcohol,-45.794·10<sup>−6</sup> cm<sup>3</sup>/mol
-salicylic acid/mucopolysaccharide polysulfate,F
+isopropyl alcohol,no mwt found
+salicylic acid/mucopolysaccharide polysulfate,FAILED
 tafluprost,452.531266 g/mol
 didanosine,236.227 g/mol
-Azelastine/Fluticasone,F
+Azelastine/Fluticasone,FAILED
 perindopril,368.468 g/mol
 Sultiame,290.0395 g/mol
 porfimer sodium,1179.36 g/mol (for n=0)
 spectinomycin,332.35 g/mol
+brimonidine/timolol,no mwt found
 cefaclor,367.808 g/mol
-ketovite,F
-iodoform,-117.1·10<sup>−6</sup> cm<sup>3</sup>/mol
+ketovite,FAILED
+iodoform,no mwt found
 ciprofibrate,289.154 g/mol
+latanoprost/timolol,no mwt found
+disinfectant,no mwt found
+perflutren,no mwt found
 clofazimine,473.396 g/mol
-liquid paraffin/yellow soft paraffin,F
+liquid paraffin/yellow soft paraffin,FAILED
 trimetazidine,266.336 g/mol
 nadolol,309.401 g/mol
-activon,F
-potassium chloride/sodium chloride/glucose/calcium/magnesium,F
+activon,FAILED
+potassium chloride/sodium chloride/glucose/calcium/magnesium,FAILED
+ephedrine hydrochloride,no mwt found
 ethosuximide,141.168 g/mol
-hydrocortisone/cinchocaine,F
-liquid paraffin light/isopropyl myristate,F
-potassium acid phosphate/sodium acid phosphate,F
-coal tar/coconut oil/salicylic acid,F
-bone cement/gentamicin/vancomycin,F
+nutricia,no mwt found
+hydrocortisone/cinchocaine,FAILED
+liquid paraffin light/isopropyl myristate,FAILED
+potassium acid phosphate/sodium acid phosphate,FAILED
+coal tar/coconut oil/salicylic acid,FAILED
+bone cement/gentamicin/vancomycin,FAILED
 nicardipine,479.525 g/mol
-paraldehyde,-86.2·10<sup>−6</sup> cm<sup>3</sup>/mol
+paraldehyde,no mwt found
 lofepramine,418.958 g/mol
 olmesartan,558.585 g/mol
-lemon spirirt,F
+lemon spirirt,FAILED
 darifenacin,426.55 g/mol
 enfuvirtide,4492.1 g/mol
 fenofibrate,360.831 g/mol
 pentoxifylline,278.31 g/mol
 dronabinol,314.469 g/mol
-calcium/ergocalciferol,F
-dimeticone/benzalkonium chloride,F
-ichthopaste,F
+calcium/ergocalciferol,FAILED
+dimeticone/benzalkonium chloride,FAILED
+tasonermin,no mwt found
+ichthopaste,FAILED
 cardiolite,777.852 g/mol
-comfeel plus,F
-sorbitol/mannitol,F
-lidocaine/hydrocortisone,F
+comfeel plus,FAILED
+sorbitol/mannitol,FAILED
+lidocaine/hydrocortisone,FAILED
 dosulepin,295.45 g/mol
-polyacrylamide hydrogel,F
+polyacrylamide hydrogel,FAILED
+secretin,no mwt found
 pravastatin,424.528 g/mol
+dimercaprol,no mwt found
 bromfenac,334.16 g/mol
+minocycline,no mwt found
 methenamine hippurate,140.186 g/mol
+osmolite,no mwt found
 Lubiprostone,390.462 g/mol
 indacaterol,392.490 g/mol
 betahistine,136.194 g/mol
-dispenser pump,F
+potassium iodide,no mwt found
+dispenser pump,FAILED
+procaine benzylpenicillin,no mwt found
 celecoxib,381.373 g/mol
-mercapto acetyl tri-glycine,F
-retinol palmitate/white soft paraffin/light liquid paraffin/liquid paraffin/wool fat,F
-phosphate/sodium - joulies,F
-betamethasone/coal tar,F
+mercapto acetyl tri-glycine,FAILED
+hydrocolloid,no mwt found
+retinol palmitate/white soft paraffin/light liquid paraffin/liquid paraffin/wool fat,FAILED
+sma,no mwt found
+phosphate/sodium - joulies,FAILED
+betamethasone/coal tar,FAILED
 asenapine,285.77 g/mol
 tibolone,312.446 g/mol
-salicylic acid,-72.23·10<sup>−6</sup> cm<sup>3</sup>/mol
-betamethasone/clotrimazole,F
-macrogol 3350,F
+salicylic acid,no mwt found
+betamethasone/clotrimazole,FAILED
+macrogol 3350,FAILED
+diphencyprone,no mwt found
 hydroxyzine,374.904 g/mol
 felodipine,384.259 g/mol
-coal tar/salicylic acid/Sulfur,F
-salicylic acid/betamethasone,F
-ensure plus,F
-L-Ornithine-L-Aspartate,F
-urea/lactic acid,F
+coal tar/salicylic acid/Sulfur,FAILED
+salicylic acid/betamethasone,FAILED
+ensure plus,FAILED
+L-Ornithine-L-Aspartate,FAILED
+methylcellulose,no mwt found
+indometacin,no mwt found
+urea/lactic acid,FAILED
 apremilast,460.500 g/mol
+oxytetracycline/hydrocortisone,no mwt found
+sunscreen,no mwt found
 pasireotide,"1047.21 g/mol<sup class=""reference"" id=""cite_ref-1""><a href=""#cite_note-1"">[1]</a></sup>"
 irbesartan,428.53 g/mol
-forticreme,F
-tobramycin/tazocin,F
+forticreme,FAILED
+tobramycin/tazocin,FAILED
 escitalopram,"324.392 g/mol<br/>
 (414.43 as oxalate)"
-albumin aggregated,F
+encephalitis,no mwt found
+calcium phosphate,no mwt found
+albumin aggregated,FAILED
 tolbutamide,270.35 g/mol
-calcium phosphate/colecalciferol,F
-aluminium hydroxide/magnesium hydroxide,F
+ensure,no mwt found
+calcium phosphate/colecalciferol,FAILED
+aluminium hydroxide/magnesium hydroxide,FAILED
 sodium hypochlorite,74.442 g/mol
 temoporfin,680.74 g/mol
 cobicistat,776.023 g/mol
 methocarbamol,241.241 g/mol
-haemophilus/meningococcal,F
-levothyroxine/liothyronine,F
+haemophilus/meningococcal,FAILED
+levothyroxine/liothyronine,FAILED
 terbinafine,291.43 g/mol
-fluorouracil/Salicylic acid,F
+fluorouracil/Salicylic acid,FAILED
+polyvinyl alcohol,no mwt found
 dihydroergotamine,583.678 g/mol
-hydroxypropyl guar,F
-paraffin gauze dressing,F
+estradiol/norethisterone,no mwt found
+hydroxypropyl guar,FAILED
+lutropin alfa,no mwt found
+paraffin gauze dressing,FAILED
+typhoid,no mwt found
 piroxicam,331.348 g/mol
 vildagliptin,303.399 g/mol
-urea,-33.4·10<sup>−6</sup> cm<sup>3</sup>/mol
-meropenem/tobramycin,F
-ferrous fumarate/folic acid,F
-amiloride/furosemide(frusemide),F
+urea,no mwt found
+meropenem/tobramycin,FAILED
+ferrous fumarate/folic acid,FAILED
+felbamate,no mwt found
+amiloride/furosemide(frusemide),FAILED
 glycopyrronium,398.335 g/mol
-cetrimide/benzalkonium chloride,F
+cetrimide/benzalkonium chloride,FAILED
 carbidopa,226.229 g/mol
-disodium edetate,F
-pro-cal,F
-tri-adcortyl,F
-benzoyl peroxide /clindamycin,F
+disodium edetate,FAILED
+pro-cal,FAILED
+hydrogel,no mwt found
+tri-adcortyl,FAILED
+yellow fever,no mwt found
+benzoyl peroxide /clindamycin,FAILED
 rimexolone,370.525 g/mol
-actilite,F
+actilite,FAILED
 naftidrofuryl,383.524 g/mol
-clobetasol/coal tar/salicylic acid,F
+biotin,no mwt found
+nicotinamide,no mwt found
+clobetasol/coal tar/salicylic acid,FAILED
 paromomycin,615.629 g/mol
-clobetasol/tacrolimus,F
+clobetasol/tacrolimus,FAILED
 pioglitazone,356.44 g/mol
 loratadine,382.88 g/mol
 naltrexone,341.401 g/mol
-actisorb silver,F
+actisorb silver,FAILED
 methylnaltrexone bromide,356.44 g/mol
 cefradine,349.406 g/mol
 diflunisal,250.198 g/mol
-cerium nitrate/silver sulfadiazine,F
+cerium nitrate/silver sulfadiazine,FAILED
 ceftaroline,744.736661 g/mol
-polymem,F
+polymem,FAILED
 pyrimethamine,248.71 g/mol
 danazol,337.5 g/mol
-sodium bicarbonate/sodium citrate,F
+sodium bicarbonate/sodium citrate,FAILED
 methacholine,160.234 g/mol
-monogen,F
-allevyn ag,F
-Strontium,"7.43 <a class=""mw-redirect"" href=""/wiki/Kilojoule_per_mole"" title=""Kilojoule per mole"">kJ/mol</a>"
-ceftazidime/tobramycin,F
+tielle,no mwt found
+calcium acetate/magnesium carbonate,no mwt found
+monogen,FAILED
+allevyn ag,FAILED
+Strontium,no mwt found
+ceftazidime/tobramycin,FAILED
+carvedilol,no mwt found
 risedronate,283.112 g/mol
 polidocanol,582.8073 g/mol (predicted)
+granuflex,no mwt found
+corticotropin,no mwt found
 crotamiton,203.28 g/mol
 procaine,236.31 g/mol
-glycerol/light liquid paraffin/white soft paraffin,F
-soltran,F
-clobetasone/propylene glycol,F
+glycerol/light liquid paraffin/white soft paraffin,FAILED
+penfluridol,no mwt found
+soltran,FAILED
+clobetasone/propylene glycol,FAILED
 bupropion,"239.74<span class=""nowrap""> </span>g/mol"
-algivon,F
+algivon,FAILED
 dicobalt edetate,"406.08 g/mol<br/>
 514.18 g/mol (hexahydrate)"
 gadobenate dimeglumine,667.72 g/mol
 benperidol,381.443 g/mol
 clomethiazole,161.653 g/mol
-sodium chloride/glucose/sodium bicarbonate,F
-diphtheria/tetanus/pertussis,F
-frebini,F
-sacubitril/ valsartan,F
+sodium chloride/glucose/sodium bicarbonate,FAILED
+diphtheria/tetanus/pertussis,FAILED
+frebini,FAILED
+sacubitril/ valsartan,FAILED
 alfuzosin,389.449 g/mol
 pericyazine,365.49 g/mol
 vardenafil,488.604 g/mol
 esketamine,237.725 g/mol
 vinflunine,816.92 g/mol
+beractant,no mwt found
 edrophonium,166.24 g/mol
-magnesium chloride/sodium chloride,F
+magnesium chloride/sodium chloride,FAILED
 dehydroepiandrosterone,288.424 g/mol
-timodine,F
+timodine,FAILED
 buspirone,385.50314 g/mol
 selegiline,187.281 g/mol
-copper,"13.26 <a class=""mw-redirect"" href=""/wiki/Kilojoule_per_mole"" title=""Kilojoule per mole"">kJ/mol</a>"
+copper,no mwt found
 sodium thiosulfate,"158.11 g/mol (anhydrous)<br/>
 248.18 g/mol (pentahydrate)"
 clomipramine,314.9 g/mol
-erythromycin/zinc acetate,F
-oilatum,F
+erythromycin/zinc acetate,FAILED
+mucilage,no mwt found
+oilatum,FAILED
 nebivolol,405.435 g/mol
-benzalkonium chloride/triclosan/light liquid paraffin,F
-mouthwash solution tablets,F
-nutrini,F
+benzalkonium chloride/triclosan/light liquid paraffin,FAILED
+mouthwash solution tablets,FAILED
+nutrini,FAILED
 penicillamine,149.212 g/mol
 potassium iodate,214.001 g/mol
 Evolocumab,141.8 kg/mol
 erdosteine,249.309 g/mol
-antox,F
-selenium,"gray: 6.69 <a class=""mw-redirect"" href=""/wiki/Kilojoule_per_mole"" title=""Kilojoule per mole"">kJ/mol</a>"
+antox,FAILED
+betacarotene,no mwt found
+selenium,no mwt found
 monobenzone,200.233180 g/mol
-orabase,F
+orabase,FAILED
+l-cysteine,no mwt found
 etodolac,287.35 g/mol
-kindergen,F
-lactic acid,"1361.9 kJ/mol, 325.5 kcal/mol, 15.1 kJ/g, 3.61 kcal/g"
+kindergen,FAILED
+lactic acid,no mwt found
 aliskiren,551.758 g/mol
 benzbromarone,424.083 g/mol
+buprenorphine/naloxone,no mwt found
 azelastine,381.898 g/mol
-tiotropium/olodaterol,F
-boric acid,-34.1·10<sup>−6</sup> cm<sup>3</sup>/mol
+tiotropium/olodaterol,FAILED
+boric acid,no mwt found
 phenelzine,136.19 g/mol
-hepatitis A/typhoid,F
-fortijuice,F
-pentafluoropropane/norflurane,F
+hepatitis A/typhoid,FAILED
+fortijuice,FAILED
+pentafluoropropane/norflurane,FAILED
 pipobroman,356.054 g/mol
 lacidipine,455.543 g/mol
 olsalazine,302.239g/mol
-beclomethasone/coal tar/salicylic acid,F
+beclomethasone/coal tar/salicylic acid,FAILED
+trometamol,no mwt found
 magnesium carbonate,84.3139 g/mol (anhydrous)
-insulin degludec/liraglutide,F
-caffeine/sodium benzoate,F
+insulin degludec/liraglutide,FAILED
+caffeine/sodium benzoate,FAILED
 pizotifen,295.443 g/mol
-granugel,F
-lumefantine/artemether,F
+granugel,FAILED
+syrup,no mwt found
+lumefantine/artemether,FAILED
 reboxetine,313.391 g/mol
-modified maize starch,F
-carboflex,F
-alkyl-amino-alkyl glycines,F
-trichloroacetic acid,-73.0·10<sup>−6</sup> cm<sup>3</sup>/mol
-magnesium,"8.48 <a class=""mw-redirect"" href=""/wiki/Kilojoule_per_mole"" title=""Kilojoule per mole"">kJ/mol</a>"
+triclosan,no mwt found
+Balneum,no mwt found
+modified maize starch,FAILED
+carboflex,FAILED
+alkyl-amino-alkyl glycines,FAILED
+trichloroacetic acid,no mwt found
+dimeticone,no mwt found
+magnesium,no mwt found
 anastrozole,293.366 g/mol
 fluocinonide,494.525 g/mol
-glycopyrronium/unguentum,F
-Sodium hyaluronate/Dexpanthenol,F
+glycopyrronium/unguentum,FAILED
+Sodium hyaluronate/Dexpanthenol,FAILED
 neomycin,614.644 g/mol
 anusol HC,362.460 g/mol
 indoramin,347.454 g/mol
-proxymetacaine and fluorescein,F
-algosteril,F
+proxymetacaine and fluorescein,FAILED
+silicone,no mwt found
+algosteril,FAILED
 cefadroxil,363.389 g/mol
 tolcapone,273.241 g/mol
-L-acetylcarnitine,F
+antivenom,no mwt found
+L-acetylcarnitine,FAILED
 bendroflumethiazide,421.415 g/mol
 nitrofurazone,198.14 g/mol
-duocal,F
-sodium acetate,−37.6·10<sup>−6</sup> cm<sup>3</sup>/mol
-dipyridamole/aspirin,F
+duocal,FAILED
+sodium acetate,no mwt found
+dipyridamole/aspirin,FAILED
 dithranol,226.227 g/mol
-able spacer,F
-hydroquinone/retinoic acid/hydrocortisone,F
-cyclizine/dipipanone,F
-survimed,F
+able spacer,FAILED
+hydroquinone/retinoic acid/hydrocortisone,FAILED
+cyclizine/dipipanone,FAILED
+sucroferric oxyhydroxide,no mwt found
+survimed,FAILED
 telaprevir,679.85 g/mol
+xanthan,no mwt found
 zafirlukast,575.676 g/mol
+Strepsils,no mwt found
 neostigmine,223.294 g/mol
-maxijul,F
+maxijul,FAILED
 azelaic acid,188.22 g/mol
-Optifibre (WasBenefiber),F
-etilefrin,F
-clinisorb,F
+Optifibre (WasBenefiber),FAILED
+etilefrin,FAILED
+hyaluronic acid,no mwt found
+carob,no mwt found
+clinisorb,FAILED
 amorolfine,317.509 g/mol
+hydroxyprogesterone,no mwt found
 propiverine,367.481 g/mol
 ajmaline,326.433 g/mol
 aluminium hydroxide,78.00 g/mol
+sustanon,no mwt found
 rizatriptan,269.345 g/mol
 carteolol,292.373 g/mol
-haleraid,F
+haleraid,FAILED
 moxonidine,241.677 g/mol
-calcium glubionate/calcium lactobionate,F
-seravit,F
-doxorubicin/vincristine,F
-glycopyrronium/cetomacrogol,F
-unguentum m,F
-pigmanorm,F
+calcium glubionate/calcium lactobionate,FAILED
+seravit,FAILED
+doxorubicin/vincristine,FAILED
+glycopyrronium/cetomacrogol,FAILED
+iron chloride,no mwt found
+unguentum m,FAILED
+pigmanorm,FAILED
+collodion,no mwt found
 dextropropoxyphene/paracetamol,339.471 g/mol
+diphenylcyclopropenone,no mwt found
 pipothiazine,475.67 g/mol
+triglycerides,no mwt found
 tizanidine,253.712 g/mol
 lactose,342.30 g/mol
 hydrochlorothiazide,297.74 g/mol
-aquaform,F
+aquaform,FAILED
 enalapril,376.447 g/mol
 probenecid,285.36 g/mol
+benzoin,no mwt found
 sotalol,272.3624 g/mol
 disopyramide,339.475 g/mol
-perative,F
-Sprilon,F
+perative,FAILED
+Sprilon,FAILED
 sucrose,342.30 g/mol
+erythromycin/isotretinoin,no mwt found
+amobarbital sodium,no mwt found
 levobunolol,291.385 g/mol
 mefloquine,378.312 g/mol
 piracetam,142.16 g/mol
-cica-care,F
+cica-care,FAILED
 loprazolam,464.904 g/mol
 moclobemide,268.739 g/mol
-prednisolone/cinchocaine,F
+prednisolone/cinchocaine,FAILED
 indinavir,613.79 g/mol
 acenocoumarol,353.326 g/mol
-ferrous sulfate/folic acid,F
+cetomacrogol,no mwt found
+ferrous sulfate/folic acid,FAILED
 diflucortolone,394.452 g/mol
 quinagolide,395.56 g/mol
 fluvastatin,411.466 g/mol
+diclofenac/misoprostol,no mwt found
 torasemide,348.421 g/mol
 levamisole,204.292 g/mol
-absolute ethanol,-33.60·10<sup>−6</sup> cm<sup>3</sup>/mol
-Zinc/castor oil,F
-ensure plus juce,F
-gestodene/ethinylestradiol,F
-morphine/bupivacaine,F
-calshake,F
-indacaterol/glycopyrronium,F
-ethinylestradiol/cyproterone,F
+absolute ethanol,no mwt found
+Zinc/castor oil,FAILED
+ensure plus juce,FAILED
+gestodene/ethinylestradiol,FAILED
+morphine/bupivacaine,FAILED
+calshake,FAILED
+indacaterol/glycopyrronium,FAILED
+ethinylestradiol/cyproterone,FAILED
+fluvoxamine,no mwt found
+ferrous gluconate,no mwt found
 ketoprofen,254.281 g/mol
 ketanserin,395.43 g/mol
-white soft paraffin,F
-algisite,F
+white soft paraffin,FAILED
+algisite,FAILED
 flavoxate,391.46 g/mol
-meningococcal c,F
+plaster,no mwt found
+meningococcal c,FAILED
+riboflavin,no mwt found
+thioridazine,no mwt found
 sincalide,1143.27 g/mol
+pseudoephedrine,no mwt found
 hetastarch,130–200 kg/mol (typical)
-morphine/clonidine,F
-n-a ultra,F
-hypromellose/dextran,F
+morphine/clonidine,FAILED
+n-a ultra,FAILED
+hypromellose/dextran,FAILED
 cimetidine,252.34 g/mol
-jevity promote,F
+jevity promote,FAILED
 zolmitriptan,287.357 g/mol
 valsartan,435.519 g/mol
-estradiol/dydrogesterone,F
-cyclophosphamide/mesna,F
-c-view,F
-chlortetracycline/triamcinolone,F
-potassium bicarbonate/potassium chloride,F
+estradiol/dydrogesterone,FAILED
+cyclophosphamide/mesna,FAILED
+c-view,FAILED
+calamine,no mwt found
+chlortetracycline/triamcinolone,FAILED
+potassium bicarbonate/potassium chloride,FAILED
 zolpidem,307.395 g/mol
-cocaine/adrenaline/sodium bicarbonate,F
+cocaine/adrenaline/sodium bicarbonate,FAILED
 zinc acetate,"219.50 g/mol (dihydrate)<br/>
 183.48 g/mol (anhydrous)"
 tioconazole,387.711 g/mol
-amidose,F
-Mepiform,F
+Invertase,no mwt found
+amidose,FAILED
+Mepiform,FAILED
 telbivudine,242.23 g/mol
 piribedil,298.340 g/mol
+oxazepam,no mwt found
 retigabine,303.331 g/mol
 reteplase,39589.6 g/mol
 imipramine,280.407 g/mol
 cilostazol,369.46 g/mol
-paediasure,F
+qlaira,no mwt found
+paediasure,FAILED
 oxytetracycline,460.434 g/mol
-conjugated oestrogen,F
-lipobase,F
+conjugated oestrogen,FAILED
+lipobase,FAILED
 telmisartan,514.617 g/mol
 rabeprazole,359.444 g/mol
-nystatin/chlorhexidine,F
+nystatin/chlorhexidine,FAILED
 phenazopyridine,213.239 g/mol
-lidocaine/glucose,F
-comfeel,F
+lidocaine/glucose,FAILED
+comfeel,FAILED
 tinidazole,247.273 g/mol
 protirelin,362.38367 g/mol
-enlive,F
+enlive,FAILED
+malathion,no mwt found
 gemfibrozil,250.333 g/mol
 tiratricol,621.932 g/mol
 chloroquine,319.872 g/mol
-levothyroxine/calcium phosphate,F
+levothyroxine/calcium phosphate,FAILED
 pergolide,314.489 g/mol
-ethanol,-33.60·10<sup>−6</sup> cm<sup>3</sup>/mol
+ethanol,no mwt found
 raloxifene,473.584 g/mol
-potassium acetate,"109.38<span class=""nowrap""> </span>J/mol·K<sup class=""reference"" id=""cite_ref-nist_3-0""><a href=""#cite_note-nist-3"">[3]</a></sup>"
+night nurse,no mwt found
+potassium acetate,no mwt found
 asparaginase,31731.9 g/mol
 chlortalidone,338.766 g/mol
 sulindac,356.412 g/mol
-locasol,F
-primene,F
-hydrocortisone/nystatin/chlorhexidine,F
-clioquinol/fluocinolone,F
-pulmocare,F
+locasol,FAILED
+primene,FAILED
+hydrocortisone/nystatin/chlorhexidine,FAILED
+clioquinol/fluocinolone,FAILED
+pulmocare,FAILED
 nedocromil,371.341 g/mol
 glipizide,445.536 g/mol
-pepdite,F
-bupivacaine/diamorphine,F
+pepdite,FAILED
+bupivacaine/diamorphine,FAILED
 eprosartan,Eprosartan mesylate: 520.625 g/mol
-ensure plus creme,F
+ensure plus creme,FAILED
 chlortetracycline,"478.882 g/mol<sup class=""reference"" id=""cite_ref-autogenerated1_2-0""><a href=""#cite_note-autogenerated1-2"">[2]</a></sup>"
 stavudine,224.213 g/mol
 nateglinide,317.423 g/mol
 lormetazepam,335.2 g/mol
-industrial methylated spirit/glycerol,F
+industrial methylated spirit/glycerol,FAILED
+benzalkonium chloride,no mwt found
+metformin/sitagliptin,no mwt found
 trandolapril,430.537 g/mol
-methanol,-21.40·10<sup>−6</sup> cm<sup>3</sup>/mol
-Octyl-cyanoacrylate,F
+methanol,no mwt found
+Octyl-cyanoacrylate,FAILED
 betaxolol,307.428 g/mol
 terazosin,387.433 g/mol
-Promogran,F
+Promogran,FAILED
 prazosin,383.401 g/mol
-lyofoam,F
-hard paraffin,F
+lyofoam,FAILED
+hard paraffin,FAILED
 deflazacort,441.517 g/mol
-hydrocoll,F
-advazorb,F
-nonoxinol,F
-glucose/lidocaine,F
-cetylpyridinium/lidocaine,F
-esmogen,F
-sodium meglumine ioxaglate,F
+hydrocoll,FAILED
+advazorb,FAILED
+nonoxinol,FAILED
+glucose/lidocaine,FAILED
+emollients,no mwt found
+cetylpyridinium/lidocaine,FAILED
+esmogen,FAILED
+sodium meglumine ioxaglate,FAILED
 dihydrotestosterone,290.442 g/mol
+alum,no mwt found
 rifapentine,877.031 g/mol
 glimepiride,490.617 g/mol
-chlorothiazide/spironolactone,F
+chlorothiazide/spironolactone,FAILED
 tiagabine,375.55 g/mol
 physostigmine,275.346 g/mol
+acarbose,no mwt found
+Collagen,no mwt found
 bambuterol,367.44 g/mol
-hydroquinone,-64.63·10<sup>−6</sup> cm<sup>3</sup>/mol
+hydroquinone,no mwt found
 streptomycin,581.574 g/mol
 roflumilast,403.207 g/mol
+follitropin beta,no mwt found
 yohimbine,"354.44 g/mol (base)<br/>
 390.90 g/mol (hydrochloride)"
 auranofin,679.493 g/mol
-cyclopentolate/phenylephrine,F
-clobetasol/coal tar,F
+oxerutins,no mwt found
+magnesium trisilicate,no mwt found
+cyclopentolate/phenylephrine,FAILED
+clobetasol/coal tar,FAILED
 tetracycline,444.435 g/mol
-diethylamine salicylate,F
-clobetasol/salicylic acid,F
+diethylamine salicylate,FAILED
+clobetasol/salicylic acid,FAILED
 propafenone,341.444 g/mol
 vindesine,753.926 g/mol
 estramustine,440.405 g/mol
 pholcodine,398.55 g/mol
-tetrastarch,F
+malic acid,no mwt found
+bepanthen,no mwt found
+tetrastarch,FAILED
+desloratadine,no mwt found
 mebendazole,295.293 g/mol
-conjugated oestrogens/norgestrel,F
-losartan/hydrochlorthiazide,F
-hydroquinone/hydrocortisone/retinoic acid,F
-Atropine sulfate/diphenoxylate hydrochloride,F
-methylcholine,F
+conjugated oestrogens/norgestrel,FAILED
+sterculia,no mwt found
+losartan/hydrochlorthiazide,FAILED
+hydroquinone/hydrocortisone/retinoic acid,FAILED
+Atropine sulfate/diphenoxylate hydrochloride,FAILED
+methylcholine,FAILED
 levocetirizine,388.888 g/mol
 repaglinide,452.586 g/mol
-citric acid/malic acid,F
-renapro,F
+citric acid/malic acid,FAILED
+renapro,FAILED
+pioglitazone/metformin,no mwt found
 mesuximide,203.237 g/mol
-vildagliptin/metformin,F
-fluocinolone/neomycin,F
-perhexilene,F
-enshake,F
+colestipol,no mwt found
+vildagliptin/metformin,FAILED
+valsartan/hydrochlorothiazide,no mwt found
+fluocinolone/neomycin,FAILED
+perhexilene,FAILED
+enshake,FAILED
 cyproheptadine,287.398 g/mol
-lidocaine/phenylephrine/benzalkonium,F
-mesorb,F
+lidocaine/phenylephrine/benzalkonium,FAILED
+mesorb,FAILED
 celiprolol,379.49 g/mol
-Suprasorb,F
-irbesartan/hydrochlorothiazide,F
+Suprasorb,FAILED
+atenolol/chlortalidone,no mwt found
+irbesartan/hydrochlorothiazide,FAILED
 nefazodone,470.01 g/mol
+secobarbital,no mwt found
 acebutolol,336.426 g/mol
-veil masking cream,F
-migraleve - paracetamol/buclizine/codeine,F
-fructose,-102.60·10<sup>−6</sup> cm<sup>3</sup>/mol
+veil masking cream,FAILED
+migraleve - paracetamol/buclizine/codeine,FAILED
+fructose,no mwt found
 homatropine,356.26 g/mol
-coal tar/salicylic acid,F
+coal tar/salicylic acid,FAILED
 tazarotene,351.463 g/mol
 ziprasidone,412.936 g/mol
-mucaine,F
-mct,F
+mucaine,FAILED
+mct,FAILED
 sulfacetamide,214.243 g/mol
-clobetasone/coal tar/salicylic acid,F
-nepro,F
-dimeticone/cetrimide,F
+clobetasone/coal tar/salicylic acid,FAILED
+nepro,FAILED
+impact,no mwt found
+dimeticone/cetrimide,FAILED
 meloxicam,351.403 g/mol
 aluminium chloride,"133.341 g/mol (anhydrous)<br/>
 241.432 g/mol (hexahydrate)<sup class=""reference"" id=""cite_ref-crc_1-0""><a href=""#cite_note-crc-1"">[1]</a></sup>"
-amiloride hydrochloride/hydrochlorothiazide,F
+amiloride hydrochloride/hydrochlorothiazide,FAILED
+benzoyl peroxide,no mwt found
+complan,no mwt found
+enfamil,no mwt found
 nabumetone,228.29 g/mol
-antazoline/xylometazoline,F
-clindamycin/Tretinoin,F
-clobetasone/coal tar,F
-fortini,F
-morphine/bupivacaine/clonidine,F
+antazoline/xylometazoline,FAILED
+clindamycin/Tretinoin,FAILED
+saccharomyces boulardii,no mwt found
+sodium selenite,no mwt found
+clobetasone/coal tar,FAILED
+fortini,FAILED
+morphine/bupivacaine/clonidine,FAILED
+lodoxamide,no mwt found
 disodium hydrogen phosphate,"141.96 g/mol (anhydrous)<br/>
 268.07 g/mol (heptahydrate)"
 Nalmefene,339.43 g/mol
-quinine dihydrochloride,F
+quinine dihydrochloride,FAILED
 pimozide,461.56 g/mol
-protifar,F
-phlexy-vit,F
+protifar,FAILED
+phlexy-vit,FAILED
 flutamide,276.212 g/mol
-ethyl alcohol,-33.60·10<sup>−6</sup> cm<sup>3</sup>/mol
-liquid paraffin/isopropyl myristate/benzalkonium chloride,F
-ascorbic acid/zinc,F
+ethyl alcohol,no mwt found
+liquid paraffin/isopropyl myristate/benzalkonium chloride,FAILED
+ascorbic acid/zinc,FAILED
 acrivastine,348.438 g/mol
-medroxyprogesterone/conjugated oestrogens,F
-dicycloverine hydrochloride/aluminium hydroxide/light magnesium oxide/simeticone,F
-Lactic acid / Salicylic acid,F
+propylene glycol,no mwt found
+telmisartan/hydrochlorothiazide,no mwt found
+benylin,no mwt found
+medroxyprogesterone/conjugated oestrogens,FAILED
+dicycloverine hydrochloride/aluminium hydroxide/light magnesium oxide/simeticone,FAILED
+l-citrulline,no mwt found
+Lactic acid / Salicylic acid,FAILED
 propamidine,312.37 g/mol
-ispaghula/senna,F
-ensure plus fibre,F
+eucalyptus,no mwt found
+intrauterine device,no mwt found
+ispaghula/senna,FAILED
+ensure plus fibre,FAILED
 econazole,381.683 g/mol
 ketotifen,309.426 g/mol
 famotidine,337.449 g/mol
 sodium stibogluconate,910.9 g/mol
-nomegestrol/estradiol,F
+nomegestrol/estradiol,FAILED
 frovatriptan,243.304 g/mol
-ernergivit,F
-orahesive,F
-zinc/ichthammol,F
-hydrocortisone/crotamiton,F
-transvasin,F
-bee and wasp allergen extracts,F
-allantoin/coal tar,F
-sterillium,F
+ernergivit,FAILED
+cholera,no mwt found
+linseed oil,no mwt found
+orahesive,FAILED
+alprazolam,no mwt found
+zinc/ichthammol,FAILED
+cade oil,no mwt found
+hydrocortisone/crotamiton,FAILED
+mianserin,no mwt found
+transvasin,FAILED
+bee and wasp allergen extracts,FAILED
+allantoin/coal tar,FAILED
+lisinopril/hydrochlorothiazide,no mwt found
+sterillium,FAILED
+cod liver,no mwt found
 nizatidine,331.46 g/mol
-antiseptic lozenge,F
-calcium trisodium pentetate,F
-ispaghula/mebeverine,F
-Versiva,F
+antiseptic lozenge,FAILED
+calcium trisodium pentetate,FAILED
+magnesium citrate,no mwt found
+ispaghula/mebeverine,FAILED
+Versiva,FAILED
 ferric chloride,"162.204 g/mol (anhydrous)<br/>
 270.295 g/mol (hexahydrate)<sup class=""reference"" id=""cite_ref-crc_1-0""><a href=""#cite_note-crc-1"">[1]</a></sup>"
-potassium aminobenzoate,F
+potassium aminobenzoate,FAILED
 acemetacin,415.82372 g/mol
-glycerin,-57.06·10<sup>−6</sup> cm<sup>3</sup>/mol
-cerumol,F
-sodium methohexital,F
+glycerin,no mwt found
+cerumol,FAILED
+sodium methohexital,FAILED
 benzocaine,165.189 g/mol
-estradiol/dyhydrogesterone,F
+estradiol/dyhydrogesterone,FAILED
 inosine,268.23 g/mol
 loxapine,327.808 g/mol
 mepyramine,285.38 g/mol
-lidocaine/cetalkonium chloride,F
+lidocaine/cetalkonium chloride,FAILED
+replens,no mwt found
 glibenclamide,494.004 g/mol
-tripotassium dicitratobismuthate,F
+tripotassium dicitratobismuthate,FAILED
 sermorelin,3357.882 g/mol
-cetrimide/undecenoic acid,F
-lidocaine/midazolam,F
+cetrimide/undecenoic acid,FAILED
+lidocaine/midazolam,FAILED
 ergocalciferol,396.65 g/mol
 dibrompropamidine,470.16 g/mol
-vitajoule,F
+vitajoule,FAILED
 phenylephrine hydrochloride,167.205 g/mol
-coal tar/lecithin,F
-mepore,F
+coal tar/lecithin,FAILED
+mrsa,no mwt found
+mepore,FAILED
 bethanechol chloride,161.221 g/mol
-cyclizine/morphine,F
+cyclizine/morphine,FAILED
 flurazepam,387.88 g/mol
-pregestimil,F
-paracetamol/phenylephrine,F
-atenolol/nifedipine,F
+pregestimil,FAILED
+kaolin,no mwt found
+paracetamol/phenylephrine,FAILED
+gamolenic acid,no mwt found
+perindopril/indapamide,no mwt found
+perphenazine,no mwt found
+atenolol/nifedipine,FAILED
 alclometasone,521.042 g/mol
-papaverine/phentolamine,F
-urea/hydrogen peroxide,F
+papaverine/phentolamine,FAILED
+tragacanth,no mwt found
+dequalinium chloride,no mwt found
+urea/hydrogen peroxide,FAILED
 naratriptan,335.465 g/mol
 quinapril,438.516 g/mol
-sodium phosphate/sodium bicarbonate,F
+sodium phosphate/sodium bicarbonate,FAILED
 benzatropine,307.429 g/mol
-thovaline,F
-clinutren,F
-day nurse,F
-Cavi-Care,F
+sodium calcium edetate,no mwt found
+tacalcitol,no mwt found
+coconut,no mwt found
+otovent,no mwt found
+thovaline,FAILED
+clinutren,FAILED
+day nurse,FAILED
+hexamidine,no mwt found
+polysorbate,no mwt found
+Cavi-Care,FAILED
 proguanil,253.731 g/mol
-wysoy,F
-Diabact,F
-diphtheria/tetanus/pertussis/polio/haemophilus,F
-dithranol/salicylic acid/zinc,F
-paracetamol/codeine,F
-tentrini,F
+wysoy,FAILED
+Diabact,FAILED
+diphtheria/tetanus/pertussis/polio/haemophilus,FAILED
+dithranol/salicylic acid/zinc,FAILED
+paracetamol/codeine,FAILED
+zotepine,no mwt found
+tentrini,FAILED
 niclosamide,327.119 g/mol
 taurine,125.14 g/mol
-insulin zinc suspension,F
+acipimox,no mwt found
+insulin zinc suspension,FAILED
 isocarboxazid,231.25 g/mol
 xipamide,354.80 g/mol
-vitasavoury,F
-olmesartan/hydrochlorthiazide,F
+emulsifying wax,no mwt found
+oxprenolol,no mwt found
+vitasavoury,FAILED
+olmesartan/hydrochlorthiazide,FAILED
 tropolone,122.12 g/mol
-advadraw,F
-cetalkonium chloride/choline salicylate,F
+advadraw,FAILED
+cetalkonium chloride/choline salicylate,FAILED
 almotriptan,335.465 g/mol
 butobarbital,212.246 g/mol
-enalapril/hydrochlorothiazide,F
+enalapril/hydrochlorothiazide,FAILED
 maprotiline,277.403 g/mol
-benzocaine/tyrothricin,F
-zinc/salicylic acid,F
-insulin protamine zinc,F
-glucose/glycerin,F
-calcium carbonate/magnesium carbonate,F
+lemsip,no mwt found
+benzocaine/tyrothricin,FAILED
+zinc/salicylic acid,FAILED
+insulin protamine zinc,FAILED
+flucloxacillin/ampicillin,no mwt found
+glucose/glycerin,FAILED
+calcium carbonate/magnesium carbonate,FAILED
 potassium perchlorate,138.55 g/mol
-salicylic acid/lactic acid,F
+salicylic acid/lactic acid,FAILED
 metolazone,365.835 g/mol
 pindolol,248.321 g/mol
-bromine,"(Br<sub>2</sub>) 10.571 <a class=""mw-redirect"" href=""/wiki/Kilojoule_per_mole"" title=""Kilojoule per mole"">kJ/mol</a>"
-paracetamol/caffeine/codeine,F
-Cutinova,F
+bromine,no mwt found
+paracetamol/caffeine/codeine,FAILED
+Cutinova,FAILED
 imidapril,405.444 g/mol
-olbas,F
+hamamelis,no mwt found
+olbas,FAILED
 fosinopril,563.663 g/mol
+pentobarbitone,no mwt found
 mizolastine,432.493 g/mol
 etamsylate,263.31068 g/mol
 moxisylyte,279.375 g/mol
-flexitol,F
-coal tar/zinc,F
-estradiol/levonorgestrel,F
-acetohydroxyamic acid,F
-vitaquick,F
-adrenaline/mepivacaine,F
-spironolactone/furosemide,F
-Sulfur/hydrocortisone,F
-mydricaine,F
-lidocaine/chlorocresol/cetylpyridinium chloride,F
-dapagliflozin/metformin,F
-Dermamist,F
-sterculia/frangula,F
+uvistat,no mwt found
+flexitol,FAILED
+cetrimide,no mwt found
+coal tar/zinc,FAILED
+estradiol/levonorgestrel,FAILED
+acetohydroxyamic acid,FAILED
+vitaquick,FAILED
+adrenaline/mepivacaine,FAILED
+spironolactone/furosemide,FAILED
+amobarbital,no mwt found
+Sulfur/hydrocortisone,FAILED
+mydricaine,FAILED
+lidocaine/chlorocresol/cetylpyridinium chloride,FAILED
+dapagliflozin/metformin,FAILED
+Dermamist,FAILED
+sterculia/frangula,FAILED
 aceclofenac,353.02161 g/mol
-physiotulle,F
-paracetamol/pseudoephedrine,F
-alendronic acid/colecalciferol,F
-amiloride/bumetanide,F
-tramadol/paracetamol,F
+physiotulle,FAILED
+paracetamol/pseudoephedrine,FAILED
+alendronic acid/colecalciferol,FAILED
+amiloride/bumetanide,FAILED
+tramadol/paracetamol,FAILED
 calcium lactate,218.22 g/mol
-tridestra,F
-dialamine,F
-hydrosorb,F
-allantoin/lidocaine,F
-paracetamol/phenylephrine/caffeine,F
+tridestra,FAILED
+dialamine,FAILED
+gripe,no mwt found
+hydrosorb,FAILED
+allantoin/lidocaine,FAILED
+lactase,no mwt found
+paracetamol/phenylephrine/caffeine,FAILED
 pentazocine,285.424 g/mol
-dimenhydrinate/cinnarizine,F
-clobetasone/propylene glycol/salicylic acid,F
-amiloride/cyclopenthiazide,F
-industrial methylated spirits/hydrogen peroxide,F
-bismuth salicylate,F
-ichthammol/hydrocortisone,F
+dimenhydrinate/cinnarizine,FAILED
+oxymetazoline,no mwt found
+clobetasone/propylene glycol/salicylic acid,FAILED
+amiloride/cyclopenthiazide,FAILED
+industrial methylated spirits/hydrogen peroxide,FAILED
+bismuth salicylate,FAILED
+ichthammol/hydrocortisone,FAILED
 dextromethorphan,271.40 g/mol
-chlorclean,F
-Haz-tab diluter bottle,F
+fansidar,no mwt found
+chlorclean,FAILED
+Haz-tab diluter bottle,FAILED
+aspirin/paracetamol/caffeine,no mwt found
+podophyllum,no mwt found
 phenprocoumon,280.318 g/mol
-simeticone/hydrotalcite,F
-disodium etidronate/calcium carbonate,F
-triamterene/furosemide,F
+simeticone/hydrotalcite,FAILED
+disodium etidronate/calcium carbonate,FAILED
+triamterene/furosemide,FAILED
 xylose,150.13 g/mol
-hydrocortisone/pramocaine,F
-hydrocortisone/urea,F
-ammonium acetate,-41.1·10<sup>−6</sup> cm<sup>3</sup>/mol
+hydrocortisone/pramocaine,FAILED
+hydrocortisone/urea,FAILED
+ammonium acetate,no mwt found
+dextran,no mwt found
 tenoxicam,337.376 g/mol
-phenol/chlorhexidine gluconate,F
+phenol/chlorhexidine gluconate,FAILED
+emollient,no mwt found
 guaifenesin,198.216 g/mol
 melperone,263.35 g/mol
-selenium/zinc,F
+selenium/zinc,FAILED
+clove oil,no mwt found
 diphenhydramine,255.355 g/mol
-lidocaine/chlorocresol/cetylpydinium chloride,F
-mesitran,F
-cymalon,F
-hospital hand cream,F
-tolfenamic,F
-medroxyprogesterone/estradiol,F
-glycerol/honey/lemon oil,F
-mifepristone/misoprostol,F
-surgical spirirt,F
-cinchocaine/fluocortolone,F
-captopril/hydrochlorthiazide,F
-sodium hydroxide,−16.0·10<sup>−6</sup> cm<sup>3</sup>/mol
-tiaprofenic,F
-paracetamol/caffeine,F
-diluent c,F
+lidocaine/chlorocresol/cetylpydinium chloride,FAILED
+mesitran,FAILED
+castor oil,no mwt found
+cymalon,FAILED
+hospital hand cream,FAILED
+Mycota,no mwt found
+anise,no mwt found
+tolfenamic,FAILED
+valsartan/amlodipine,no mwt found
+medroxyprogesterone/estradiol,FAILED
+almond oil,no mwt found
+glycerol/honey/lemon oil,FAILED
+mifepristone/misoprostol,FAILED
+surgical spirirt,FAILED
+cinchocaine/fluocortolone,FAILED
+captopril/hydrochlorthiazide,FAILED
+sodium hydroxide,no mwt found
+tiaprofenic,FAILED
+paracetamol/caffeine,FAILED
+erythromycin/tretinoin,no mwt found
+diluent c,FAILED
 phenothrin,350.451 g/mol
-diphtheria/tetanus,F
+diphtheria/tetanus,FAILED
 sodium fluoride,41.988173 g/mol
-guaifenesin/pseudoephedrine/triprolidine,F
+rennie,no mwt found
+glucosamine,no mwt found
+norethisterone/mestranol,no mwt found
+guaifenesin/pseudoephedrine/triprolidine,FAILED
+metoclopramide/paracetamol,no mwt found
 mesterolone,304.467 g/mol
-metatone,F
-prednisolone/neomycin,F
-paracetamol/codeine phosphate/caffeine/doxylamine,F
-lidocaine/aminoacridine,F
+metatone,FAILED
+vitamin A,no mwt found
+prednisolone/neomycin,FAILED
+paracetamol/codeine phosphate/caffeine/doxylamine,FAILED
+lidocaine/aminoacridine,FAILED
+glutaraldehyde,no mwt found
 racecadotril,385.47662 g/mol
-glycerin/ichthammol,F
-renilon,F
-Sulfur,"mono: 1.727 <a class=""mw-redirect"" href=""/wiki/Kilojoule_per_mole"" title=""Kilojoule per mole"">kJ/mol</a>"
+tuberculin,no mwt found
+glycerin/ichthammol,FAILED
+renilon,FAILED
+Sulfur,256.52 g/mol
 sulfinpyrazone,404.48 g/mol
 clemastine,343.9 g/mol
-glucosamine/chondroitin,F
-pseudoephedrine/triprolidine/dextromethorphan,F
-caloreen,F
-balmosa,F
+naphazoline,no mwt found
+glucosamine/chondroitin,FAILED
+pseudoephedrine/triprolidine/dextromethorphan,FAILED
+chloroxylenol,no mwt found
+caloreen,FAILED
+balmosa,FAILED
 Tofacitinib,312.369 g/mol
-quinoderm,F
-germoloids,F
-drotrecogin,F
+quinoderm,FAILED
+germoloids,FAILED
+drotrecogin,FAILED
+eptotermin alfa,no mwt found
 sitaxentan,454.906 g/mol
+efalizumab,no mwt found
 pegaptanib,~50 kg/mol
 ticarcillin,384.429 g/mol
 lepirudin,6983.5 g/mol
-dibotermin,F
+dibotermin,FAILED
 rosiglitazone,357.428 g/mol
 nelfinavir,567.784 g/mol
-orthophthalaldehyde,F
+orthophthalaldehyde,FAILED
 daclizumab,"142,612.1 g/mol"
+pentastarch,no mwt found
 sulphamethoxypyridazine,280.304 g/mol
-ferric sodium gluconate,F
-ferucarbotran,F
+ferric sodium gluconate,FAILED
+ferucarbotran,FAILED
+uracil/tegafur,no mwt found
 guanethidine,198.309 g/mol
 muromonab,146.091 g/mol
-galactose,-103.00·10<sup>−6</sup> cm<sup>3</sup>/mol
-glamin,F
-rosiglitazone/metformin,F
+galactose,no mwt found
+glamin,FAILED
+rosiglitazone/metformin,FAILED
 rimonabant,463.79 g/mol
-omega marine,F
-geliperm,F
+omega marine,FAILED
+geliperm,FAILED
 etynodiol diacetate,384.509 g/mol
-contreet,F
+contreet,FAILED
+gonadotrophin,no mwt found
+sacrosidase,no mwt found
 mangafodipir,689.362 g/mol
+ibritumomab,no mwt found
 sibutramine,279.85 g/mol
-magnesium/liquid paraffin,F
+magnesium/liquid paraffin,FAILED
+decan,no mwt found
 fosphenytoin,362.274 g/mol
-ceftazidime/colistin,F
+ceftazidime/colistin,FAILED
 trifluorothymidine,296.2 g/mol
+build up,no mwt found
 triclofos,229.383 g/mol
-provide xtra,F
+provide xtra,FAILED
 dolasetron,324.374 g/mol
-diamorphine/bupivacaine,F
+acetarsol,no mwt found
+methionine,no mwt found
+diamorphine/bupivacaine,FAILED
 sultrin,214.243 g/mol
-dithranol/salicylic acid,F
+dithranol/salicylic acid,FAILED
 halothane,197.381 g/mol
-combiderm,F
-ferumoxides,F
+combiderm,FAILED
+ferumoxides,FAILED
 felbinac,212.244 g/mol
-alione,F
-ceftazidime/gentamicin,F
+alione,FAILED
+ceftazidime/gentamicin,FAILED
 altretamine,210.28 g/mol
 ticlopidine,263.786 g/mol
-trufoam,F
+trufoam,FAILED
 distigmine,576.322 g/mol
 tetrahydrobiopterin,241.25 g/mol
 hexetidine,339.602 g/mol
+ketocal,no mwt found
 norfloxacin,319.331 g/mol
-apple mistletoe,F
+apple mistletoe,FAILED
 gestrinone,308.41 g/mol
 potassium bicarbonate,100.115 g/mol
 spiramycin,843.053 g/mol
-sodium bicarbonate/simeticone,F
-polytar,F
-mecysteine,F
-gastrocote,F
-tricitrates,F
+sodium bicarbonate/simeticone,FAILED
+polytar,FAILED
+mecysteine,FAILED
+gastrocote,FAILED
+tricitrates,FAILED
+stanozolol,no mwt found
 magnesium chloride,"95.211 g/mol (anhydrous)<br/>
 203.31 g/mol (hexahydrate)"
 bretylium,243.163 g/mol
-hydrocortisone/neomycin/polymixin b,F
+hydrocortisone/neomycin/polymixin b,FAILED
 sodium nitrate,84.9947 g/mol
-fortimel,F
-insufflator,F
-n-a,F
+fortimel,FAILED
+insufflator,FAILED
+n-a,FAILED
 diloxanide,328.147 g/mol
-bupivacaine/alfentanil,F
-primapore,F
-allantoin/coal tar/hydrocortisone,F
-Varicella-Zoster Immunoglobulin,F
-novasource,F
+bupivacaine/alfentanil,FAILED
+primapore,FAILED
+allantoin/coal tar/hydrocortisone,FAILED
+Varicella-Zoster Immunoglobulin,FAILED
+novasource,FAILED
 tegaserod,301.39 g/mol
-clinisan,F
+aluminium acetate,no mwt found
+clinisan,FAILED
 tropisetron,284.353 g/mol
-glutaraldehyde/formaldehyde/didecyldimethylammonium chloride,F
+nicotinic acid,no mwt found
+papaveretum,no mwt found
+glutaraldehyde/formaldehyde/didecyldimethylammonium chloride,FAILED
+becaplermin,no mwt found
 inositol nicotinate,810.72 g/mol
+omega-3,no mwt found
 procainamide,235.325 g/mol
 fluspirilene,475.573 g/mol
-vitapro,F
-seasorb,F
-pine mistletoe/mercuric sulfate,F
-lumirem,F
+oak mistletoe,no mwt found
+vitapro,FAILED
+seasorb,FAILED
+pine mistletoe/mercuric sulfate,FAILED
+lumirem,FAILED
 pentagastrin,767.893 g/mol
-phentolamine/aviptadil,F
-disodium etidronate,F
+phentolamine/aviptadil,FAILED
+disodium etidronate,FAILED
 dydrogesterone,312.446 g/mol
-enrich plus,F
-leukoscan,F
-xp analog,F
-neodisher,F
+noxytiolin,no mwt found
+enrich plus,FAILED
+leukoscan,FAILED
+xp analog,FAILED
+neodisher,FAILED
+Chiron,no mwt found
 ritodrine,287.354 g/mol
-zinc oxide/cod liver,F
-caprilon,F
-hydrocortisone/chlorquinaldol,F
-forticare,F
-pr heat spray,F
+zinc oxide/cod liver,FAILED
+chlormethine,no mwt found
+nandrolone,no mwt found
+amitriptyline/perphenazine,no mwt found
+caprilon,FAILED
+hydrocortisone/chlorquinaldol,FAILED
+forticare,FAILED
+mitobronitol,no mwt found
+pr heat spray,FAILED
 phenylalanine,165.19 g/mol
 diclofenamide,305.16 g/mol
-apple mistletoe/silver carbonate,F
-benzocaine/cetylpyridinium chloride,F
+apple mistletoe/silver carbonate,FAILED
+benzocaine/cetylpyridinium chloride,FAILED
 cefpodoxime,427.458 g/mol
-Cellona,F
+Cellona,FAILED
 methysergide,353.458 g/mol
-fortifresh,F
+intrinsic factor,no mwt found
+simvastatin/ezetimibe,no mwt found
+fortifresh,FAILED
 hyoscyamine,289.375 g/mol
 trilostane,329.433 g/mol
+cetylpyridinium chloride,no mwt found
+choriogonadotropin,no mwt found
 tolazoline,160.216 g/mol
-clioquinol/hydrocortisone,F
+clioquinol/hydrocortisone,FAILED
+hydroxyamphetamine,no mwt found
 dipivefrine,351.437 g/mol
-aluminium hydroxide/simeticone/light magnesium oxide,F
-generaid,F
+chamomile,no mwt found
+aluminium hydroxide/simeticone/light magnesium oxide,FAILED
+generaid,FAILED
+crepe,no mwt found
 tisopurine,152.18 g/mol
-histamine acid phosphate,F
+histamine acid phosphate,FAILED
 emedastine,302.415 g/mol
 metipranolol,309.401 g/mol
-prosure,F
+gentian,no mwt found
+prosure,FAILED
 nalidixic acid,232.235 g/mol
 diclofenac potassium,296.148 g/mol
-lidocaine/cetrimide,F
-oak mistletoe/copper carbonate,F
-vasogen,F
-pethidine/promethazine,F
-amobarbital/secobarbital,F
-oak mistletoe/mercuric sulfate,F
-chloroform,3.67 L·atm/mol (24 °C)
-urgocell,F
-maxamaid,F
-keltrol,F
-iopanoic,F
-suplena,F
-papaveretum/hyoscine hydrobromide,F
-triclosan/isopropyl,F
+cortisone,no mwt found
+lidocaine/cetrimide,FAILED
+oak mistletoe/copper carbonate,FAILED
+vasogen,FAILED
+pethidine/promethazine,FAILED
+amobarbital/secobarbital,FAILED
+oak mistletoe/mercuric sulfate,FAILED
+chloroform,no mwt found
+urgocell,FAILED
+maxamaid,FAILED
+keltrol,FAILED
+iopanoic,FAILED
+suplena,FAILED
+papaveretum/hyoscine hydrobromide,FAILED
+triclosan/isopropyl,FAILED
 pentolinium,240.43 g/mol
-thiotic acid,F
+poliomyelitis,no mwt found
+thiotic acid,FAILED
 zaleplon,305.34 g/mol
 amoxapine,313.781 g/mol
-maxisorb,F
-aluminium hydroxide/magnesium hydroxide/simethicone,F
+maxisorb,FAILED
+aluminium hydroxide/magnesium hydroxide/simethicone,FAILED
 triamterene,253.263 g/mol
-tegasorb,F
-prejomin,F
-benzoyl peroxide/potassium hydroxyquinoline sulfate,F
-isosource,F
-diluter bottle,F
+tegasorb,FAILED
+prejomin,FAILED
+benzoyl peroxide/potassium hydroxyquinoline sulfate,FAILED
+cilazapril,no mwt found
+isosource,FAILED
+diluter bottle,FAILED
 flunisolide,434.498 g/mol
-calipotriol,F
-hydroflumethiazide/spironolactone,F
-infasoy,F
-galactomin,F
+calipotriol,FAILED
+hydroflumethiazide/spironolactone,FAILED
+nipasept,no mwt found
+infasoy,FAILED
+galactomin,FAILED
 pyrogallol,126.11 g/mol
-Vaseline dermacare,F
-alvogyl,F
-benzoyl peroxide/erythromycin,F
+glutathione,no mwt found
+Vaseline dermacare,FAILED
+alvogyl,FAILED
+benzoyl peroxide/erythromycin,FAILED
 lumiracoxib,"293,72 g/mol"
-potassium hydroxide,−22.0·10<sup>−6</sup> cm<sup>3</sup>/mol
-glycerin/thymol,F
+potassium hydroxide,no mwt found
+glycerin/thymol,FAILED
+brewers yeast,no mwt found
 biperiden,311.461 g/mol
-estradiol/progestogen,F
-ergotamine/cyclizine/caffeine,F
+estradiol/progestogen,FAILED
+ergotamine/cyclizine/caffeine,FAILED
 tolnaftate,307.41 g/mol
-benzocaine/dequalinium chloride,F
-ammonium chloride,"Sublimes at 337.6 °C<sup class=""reference"" id=""cite_ref-chemister_2-0""><a href=""#cite_note-chemister-2"">[2]</a></sup><br/>
-Δ<sub>subl</sub><i>H</i><sup><s>o</s></sup> = 176.1 kJ/mol<sup class=""reference"" id=""cite_ref-Wiberg.26Holleman_3-0""><a href=""#cite_note-Wiberg.26Holleman-3"">[3]</a></sup>"
-l-valine,-74.3·10<sup>−6</sup> cm<sup>3</sup>/mol
+promod,no mwt found
+benzocaine/dequalinium chloride,FAILED
+ichthammol,no mwt found
+starch,no mwt found
+ammonium chloride,no mwt found
+l-valine,no mwt found
+dihydroxyacetone,no mwt found
 digitoxin,764.939 g/mol
-hypafix,F
+hypafix,FAILED
 meprobamate,218.250 g/mol
-lansinoh,F
+lansinoh,FAILED
 aminoglutethimide,232.278 g/mol
-silisone,F
-morphine/clonidine/bupivacaine,F
+silisone,FAILED
+neosporin,no mwt found
+morphine/clonidine/bupivacaine,FAILED
 cyclobenzaprine,275.387 g/mol
-antipeol,F
-karvol,F
-chloroquine/proguanil,F
-hormonin,F
-optrex,F
-pectigel,F
-formaldehyde/zinc oxide,F
+antipeol,FAILED
+karvol,FAILED
+chloroquine/proguanil,FAILED
+hormonin,FAILED
+optrex,FAILED
+pectigel,FAILED
+eucerin,no mwt found
+ether,no mwt found
+formaldehyde/zinc oxide,FAILED
 orciprenaline,211.258 g/mol
-Calaband,F
-Oxprenolol/cyclopenthiazide,F
-polycose,F
+Calaband,FAILED
+Oxprenolol/cyclopenthiazide,FAILED
+polycose,FAILED
 dexketoprofen,254.28056 g/mol
-benethamine benzylpenicillin,F
+benethamine benzylpenicillin,FAILED
 carisoprodol,260.33 g/mol
 osmium tetroxide,254.23 g/mol
+polynoxylin,no mwt found
 desipramine,266.381 g/mol
-metabolic mineral mixture,F
-forceval,F
-ramipril/felodipine,F
-sno-strips,F
-neomycin/bacitracin/cysteine/glycine/threonine,F
-tricotex,F
-potassium dihydrogen orthophosphate,F
-aspirin/papaveretum,F
-maxipro,F
-L-tyrosine,-105.3·10<sup>−6</sup> cm<sup>3</sup>/mol
+metabolic mineral mixture,FAILED
+forceval,FAILED
+ramipril/felodipine,FAILED
+sno-strips,FAILED
+neomycin/bacitracin/cysteine/glycine/threonine,FAILED
+tricotex,FAILED
+propain,no mwt found
+potassium dihydrogen orthophosphate,FAILED
+aspirin/papaveretum,FAILED
+maxipro,FAILED
+tetanus,no mwt found
+L-tyrosine,no mwt found
+toiletries,no mwt found
 ranitidine bismuth citrate,314.4 g/mol
+chlorobutanol,no mwt found
 quinidine,324.417 g/mol
-naproxen/misoprostol,F
-morphine/kaolin,F
+naproxen/misoprostol,FAILED
+morphine/kaolin,FAILED
+tcp,no mwt found
 potassium sulfate,174.259 g/mol
-mepyramine/benzocaine,F
-chloroxylenol/aldioxa,F
-cymex,F
-timolol/amiloride hydrochloride/hydrochlorothiazide,F
-rapolyte,F
-prosobee,F
+ralgex,no mwt found
+mepyramine/benzocaine,FAILED
+chloroxylenol/aldioxa,FAILED
+enrich,no mwt found
+cymex,FAILED
+timolol/amiloride hydrochloride/hydrochlorothiazide,FAILED
+rapolyte,FAILED
+prosobee,FAILED
 guanfacine,246.093 g/mol
-diphenhydramine/camphor,F
-zinc,"7.32 <a class=""mw-redirect"" href=""/wiki/Kilojoule_per_mole"" title=""Kilojoule per mole"">kJ/mol</a>"
-piperazine/senna,F
-activated charcoal/magnesium hydroxide,F
-camphor,-103·10<sup>−6</sup> cm<sup>3</sup>/mol
+diphenhydramine/camphor,FAILED
+aminopyridine,no mwt found
+zinc,no mwt found
+piperazine/senna,FAILED
+activated charcoal/magnesium hydroxide,FAILED
+camphor,no mwt found
 artemether,298.374 g/mol
-paracetamol/diphenhydramine,F
+paracetamol/diphenhydramine,FAILED
+fenbufen,no mwt found
 estropipate,436.56 g/mol
+neutrogena,no mwt found
 cyclopenthiazide,379.88 g/mol
-Kalms,F
-anugesic-HC,F
-cetylpyridinium chloride/menthol,F
-gamolenic acid/vitamin E,F
+Kalms,FAILED
+anugesic-HC,FAILED
+cetylpyridinium chloride/menthol,FAILED
+gamolenic acid/vitamin E,FAILED
+caffeine/ergotamine,no mwt found
 methimazole,114.17 g/mol
-ibuprofen/pseudoephedrine,F
+oxypurinol,no mwt found
+ibuprofen/pseudoephedrine,FAILED
 bismuth subsalicylate,362.093 g/mol
-podophyllum /salicylic acid,F
-pseudoephedrine/chlorphenamine/pholcodeine,F
+podophyllum /salicylic acid,FAILED
+pseudoephedrine/chlorphenamine/pholcodeine,FAILED
+carbaryl,no mwt found
 gliquidone,527.634 g/mol
-codeine/caffeine/paracetamol/hyoscine,F
-bumetanide/potassium,F
-carob seed flour/calcium lactate,F
-retinol/colecalciferol,F
-dexamethasone/tramazoline,F
-ferrous sulfate/ascorbic acid,F
-betamethasone/coal tar/salicylic acid,F
-lotil,F
-furosemide/potassium,F
-bendroflumethiazide/potassium,F
-diethylamine salicylate/methyl nicotinate/glycol salicylate,F
-iron,"13.81 <a class=""mw-redirect"" href=""/wiki/Kilojoule_per_mole"" title=""Kilojoule per mole"">kJ/mol</a>"
-chlorhexidine/tetracaine,F
+codeine/caffeine/paracetamol/hyoscine,FAILED
+bumetanide/potassium,FAILED
+carob seed flour/calcium lactate,FAILED
+retinol/colecalciferol,FAILED
+dexamethasone/tramazoline,FAILED
+ferrous sulfate/ascorbic acid,FAILED
+betamethasone/coal tar/salicylic acid,FAILED
+lotil,FAILED
+furosemide/potassium,FAILED
+bendroflumethiazide/potassium,FAILED
+diethylamine salicylate/methyl nicotinate/glycol salicylate,FAILED
+iron,no mwt found
+chlorhexidine/tetracaine,FAILED
 ammonia,17.031 g/mol
-salicylic acid/Sulfur,F
-triamterene/benzthiazide,F
+formocresol,no mwt found
+salicylic acid/Sulfur,FAILED
+triamterene/benzthiazide,FAILED
+magenta,no mwt found
+benzyl benzoate,no mwt found
 phentermine,149.233 g/mol
 amfepramone,205.30 g/mol
-aspirin/citric acid/sodium bicarbonate,F
-insulin zinc suspension (crystalline),F
-guaifenesin/pseudoephedrine,F
-diocalm,F
-econazole/hydrocortisone,F
-pholcodine/promethazine,F
-ocuvite,F
+amyl nitrite,no mwt found
+aspirin/citric acid/sodium bicarbonate,FAILED
+bismuth subgallate,no mwt found
+insulin zinc suspension (crystalline),FAILED
+guaifenesin/pseudoephedrine,FAILED
+diocalm,FAILED
+econazole/hydrocortisone,FAILED
+rose,no mwt found
+nivea,no mwt found
+pholcodine/promethazine,FAILED
+ocuvite,FAILED
 desoximetasone,376.462 g/mol
-pseudoephedrine/tripolidine,F
-Botulism immunoglobulin,F
+pseudoephedrine/tripolidine,FAILED
+sodium saccharin,no mwt found
+Botulism immunoglobulin,FAILED
 palifermin,16192.7 g/mol
-stellisept,F
+stellisept,FAILED
+clenbuterol,no mwt found
+parathyroid hormone,no mwt found
+ticarcillin/clavulanic acid,no mwt found
 alglucerase,55597.4 g/mol
 decitabine,228.206 g/mol
-hydroxymethylcellulose,F
-diosmin/hesperidin,F
+omegaven,no mwt found
+dexbrompheniramine/pseudoephedrine,no mwt found
+hydroxymethylcellulose,FAILED
+diosmin/hesperidin,FAILED
 framycetin,614.644 g/mol
+dimercaptosuccinic acid,no mwt found
 ethionamide,166.244 g/mol
 acetohydroxamic acid,75.0666 g/mol
 unithiol,188.289 g/mol
 piperacillin,517.555 g/mol
+succimer,no mwt found
 cefazolin,454.51 g/mol
+rabies immunoglobulin,no mwt found
 trofosfamide,323.58 g/mol
-nephrovite,F
-coal tar/hydrocortisone,F
-molindone,"<span title=""www.drugs.com""><a class=""external text"" href=""https://www.drugs.com/cdi/molindone.html"" rel=""nofollow"">Consumer Drug Information</a></span>"
+nephrovite,FAILED
+coal tar/hydrocortisone,FAILED
+molindone,276.374 g/mol
 carbachol,182.696 g/mol
 amifostine,214.224 g/mol
+picibanil,no mwt found
 protriptyline,263.377 g/mol
 ceruletide,1352.40 g/mol
+polygeline,no mwt found
 telithromycin,812.004 g/mol
 nalbuphine,357.443 g/mol
-lactoferment,F
+lactoferment,FAILED
 ibutilide,384.578 g/mol
-desderman,F
-sideromal,F
+desderman,FAILED
+dextromoramide,no mwt found
+sideromal,FAILED
+somatostatin,no mwt found
 tiludronic acid,318.609 g/mol
-dehydroepiandrosterone/ascorbic acid,F
+triclabendazole,no mwt found
+dehydroepiandrosterone/ascorbic acid,FAILED
+inolimomab,no mwt found
 pralidoxime,137.159 g/mol
-yovis,F
-apple mistletoe/mercuric sulfate,F
-isoleucine,-84.9·10<sup>−6</sup> cm<sup>3</sup>/mol
-chloroquine sulfate,F
-calcium chloride dihydrate,"−5.47·10<sup>−5</sup> cm<sup>3</sup>/mol<sup class=""reference"" id=""cite_ref-crc_1-3""><a href=""#cite_note-crc-1"">[1]</a></sup>"
+phenoxyethanol,no mwt found
+yovis,FAILED
+apple mistletoe/mercuric sulfate,FAILED
+isoleucine,no mwt found
+chloroquine sulfate,FAILED
+calcium chloride dihydrate,no mwt found
+aquaphor,no mwt found
+msud,no mwt found
 toremifene,405.959 g/mol
-urgosorb,F
-maxamum,F
-novogel,F
+urgosorb,FAILED
+haemophilus,no mwt found
+maxamum,FAILED
+novogel,FAILED
 isradipine,371.387 g/mol
-hylan B,F
-epoetin delta,F
-methocel - methylcellulose/hydroxypropylmethylcellulose,F
+hylan B,FAILED
+epoetin delta,FAILED
+methocel - methylcellulose/hydroxypropylmethylcellulose,FAILED
 magnesium stearate,591.27 g/mol
 milnacipran,246.348 g/mol
-drospirenone/estradiol,F
-enalaprilat dihydrate,F
-methylamine,-27.0·10<sup>−6</sup> cm<sup>3</sup>/mol
-immunovir,F
-hexastarch,F
+drospirenone/estradiol,FAILED
+enalaprilat dihydrate,FAILED
+prussian blue,no mwt found
+methylamine,no mwt found
+potassium sorbate,no mwt found
+immunovir,FAILED
+hexastarch,FAILED
+lactitol,no mwt found
 phenylpropanolamine,151.206 g/mol
+cade,no mwt found
 thiabendazole,201.249 g/mol
-zinc/calamine,F
-flucytosine/amphotericin,F
-nebuchamber,F
-coumarin,"<span class=""nowrap""><span class=""sortkey"" style=""display:none"">3004175000000000000♠</span>−82.5<span style=""margin-left:0.25em;margin-right:0.15em;"">×</span>10<sup>−6</sup> cm<sup>3</sup>/mol</span>"
-lauromacrogol/heparinoid,F
+zinc/calamine,FAILED
+flucytosine/amphotericin,FAILED
+nebuchamber,FAILED
+pantothenic acid,no mwt found
+coumarin,no mwt found
+lauromacrogol/heparinoid,FAILED
 metixene,309.469 g/mol
-chlorprothexine,F
-lutrol,F
+chlorprothexine,FAILED
+lutrol,FAILED
 eletriptan,382.52 g/mol
-methylhydroxybenzoate,F
+methylhydroxybenzoate,FAILED
 gallamine,"891.529 g/mol (gallamine triethiodide)<br/>
 423.633 g/mol<br/>
 (gallamine)"
 sodium metabisulfate,206.106 g/mol
 diclofenac,296.148 g/mol
-megesterol acetate,F
-fenoterol/ipratropium,F
+megesterol acetate,FAILED
+bromhexine,no mwt found
+fenoterol/ipratropium,FAILED
 nitroxoline,190.156 g/mol
 testolactone,300.39 g/mol
-pindolol/clopamide,F
+dental cement,no mwt found
+carmine,no mwt found
+pindolol/clopamide,FAILED
 amprenavir,505.628 g/mol
+l-lysine,no mwt found
 moracizine,427.518 g/mol
-cidezyme,F
-doxorubicin/vinblastine,F
+cidezyme,FAILED
+doxorubicin/vinblastine,FAILED
 tartaric acid,150.087 g/mol
-coal tar/salicylic acid/zinc,F
+methylamphetamine,no mwt found
+amaranth,no mwt found
+coal tar/salicylic acid/zinc,FAILED
 lisuride,338.447 g/mol
-cresophene,F
-benzoic acid,-70.28·10<sup>−6</sup> cm<sup>3</sup>/mol
+Avance,no mwt found
+cresophene,FAILED
+benzoic acid,no mwt found
 cinchocaine,343.463 g/mol
 diethylcarbamazine,199.293 g/mol
+quinapril/hydrochlorothiazide,no mwt found
 almitrine,477.552 g/mol
-succinic acid,-57.9·10<sup>−6</sup> cm<sup>3</sup>/mol
+succinic acid,no mwt found
+ampicillin/sulbactam,no mwt found
 atipamezole,212.290 g/mol
 resorcinol,110.1 g/mol
-pseudoephedrine/triprolidine,F
-phlexy-10,F
-captopril/hydrochlorothiazide,F
-aspirin/codeine phosphate,F
-hydrocortisone/salicylic acid/Sulfur,F
-minadex,F
-atenolol/amiloride/hydrochlorthiazide,F
+chlorocresol,no mwt found
+pseudoephedrine/triprolidine,FAILED
+phlexy-10,FAILED
+captopril/hydrochlorothiazide,FAILED
+aspirin/codeine phosphate,FAILED
+hydrocortisone/salicylic acid/Sulfur,FAILED
+minadex,FAILED
+atenolol/amiloride/hydrochlorthiazide,FAILED
+trandolapril/verapamil,no mwt found
 penciclovir,253.258 g/mol
 chlorpropamide,276.74 g/mol
 azapropazone,300.36 g/mol
-proplythiouracil,F
+proplythiouracil,FAILED
 trifluridine,296.2 g/mol
 fenoprofen,242.26986 g/mol
-cade oil/salicylic acid,F
-ipecacuanha/ammonia,F
-chloral hydrate/chloroform,F
-carbopad,F
-aspirin/caffeine,F
-eoprotin,F
+cade oil/salicylic acid,FAILED
+ipecacuanha/ammonia,FAILED
+chloral hydrate/chloroform,FAILED
+carbopad,FAILED
+aspirin/caffeine,FAILED
+eoprotin,FAILED
 dexibuprofen,206.28082 g/mol
-kalzinol,F
-borax,−85.0·10<sup>−6</sup> cm<sup>3</sup>/mol
-polydocanol,F
-trisodium edetate,F
-simeticone/loperamide,F
-osteocare,F
+kalzinol,FAILED
+borax,no mwt found
+polydocanol,FAILED
+trisodium edetate,FAILED
+simeticone/loperamide,FAILED
+resolve,no mwt found
+osteocare,FAILED
+radian,no mwt found
 dihydrotachysterol,398.664 g/mol
 moexipril,498.568 g/mol
-isopropyl alcohol/hydrogen peroxide,F
-salicylic acid/tannic acid/boric acid,F
-kaltogel,F
+isopropyl alcohol/hydrogen peroxide,FAILED
+salicylic acid/tannic acid/boric acid,FAILED
+kaltogel,FAILED
+potters,no mwt found
 idoxuridine,354.099 g/mol
-Methanesulfonate/dihydroergocristine/dihydroergocornine/alpha- and beta-dihydroergocryptine,F
-insufflators plastic,F
+Methanesulfonate/dihydroergocristine/dihydroergocornine/alpha- and beta-dihydroergocryptine,FAILED
+insufflators plastic,FAILED
+thymol,no mwt found
+phenolphthalein,no mwt found
 Sulfuric acid,98.079 g/mol
-aspirin/metoclopramide,F
-chlorobutanol/chlorhexidine,F
+aspirin/metoclopramide,FAILED
+Psorin,no mwt found
+chlorobutanol/chlorhexidine,FAILED
 benorilate,313.305 g/mol
-algicon,F
-furosemide/potassium chloride,F
-trisequens,F
-chlortalidone/triamterene,F
+germolene,no mwt found
+algicon,FAILED
+furosemide/potassium chloride,FAILED
+Novofem,no mwt found
+trisequens,FAILED
+chlortalidone/triamterene,FAILED
 sulconazole,397.749 g/mol
 nimesulide,308.311 g/mol
-timolol/bendroflumethiazide,F
+norgestrel,no mwt found
+Decubal,no mwt found
+timolol/bendroflumethiazide,FAILED
 fluocortolone,376.462 g/mol
 chlorzoxazone,169.565 g/mol
 ammonium bicarbonate,79.056 g/mol
-diphenhydramine/dextromethorphan,F
+diphenhydramine/dextromethorphan,FAILED
+mandelic acid,no mwt found
 nisoldipine,388.414 g/mol
+hydrotalcite,no mwt found
 vitamin b12,1355.37 g/mol
-ammonia/eucalyptus oil,F
-aluminium oxide,-37.0·10<sup>−6</sup> cm<sup>3</sup>/mol
+ammonia/eucalyptus oil,FAILED
+aluminium oxide,no mwt found
 sodium perchlorate,122.44 g/mol
-shark liver oil/yeast cell extract,F
-methyl salicylate,-86.30·10<sup>−6</sup> cm<sup>3</sup>/mol
-natmur,F
-vivioptal,F
-iron sorbitol,F
-solvaline,F
-dimeticone/hydrotalcite,F
-rowatinex,F
-formance,F
-alexitol,F
+shark liver oil/yeast cell extract,FAILED
+methyl salicylate,no mwt found
+natmur,FAILED
+vivioptal,FAILED
+iron sorbitol,FAILED
+solvaline,FAILED
+dimeticone/hydrotalcite,FAILED
+rowatinex,FAILED
+formance,FAILED
+alexitol,FAILED
 rose bengal,"973.67 g/mol<br/>
 1,017.65 g/mol (sodium salt)"
 astemizole,458.571 g/mol
-fluphenazine/nortriptyline,F
-benzocaine/triclosan,F
+fluphenazine/nortriptyline,FAILED
+benzocaine/triclosan,FAILED
+polytrim,no mwt found
 sertindole,440.941 g/mol
-antithrombin alfa,F
+antithrombin alfa,FAILED
 grepafloxacin,359.395 g/mol
-follitropin alfa/Lutropin alfa,F
-erythromycin/triamcinolone,F
+follitropin alfa/Lutropin alfa,FAILED
+erythromycin/triamcinolone,FAILED
 alefacept,51801.1 g/mol
-oxyzyme,F
-Kabimix,F
-hydroquinone/hydrocortisone,F
+oxyzyme,FAILED
+ademetionine,no mwt found
+Kabimix,FAILED
+hydroquinone/hydrocortisone,FAILED
 lovastatin,404.54 g/mol
-duobar,F
-dermatix,F
-zinc  undeceoate,F
+duobar,FAILED
+bismuth subnitrate,no mwt found
+cetostearyl alcohol,no mwt found
+lidocaine/tetracaine,no mwt found
+dermatix,FAILED
+zinc  undeceoate,FAILED
 carbenoxolone,570.765 g/mol
+ipecacuanha,no mwt found
 reserpine,608.68 g/mol
 sorbitol,182.17 g/mol
-thiopronin,F
+thiopronin,FAILED
 netilmicin,475.58 g/mol
-quickcal,F
+quickcal,FAILED
 tianeptine,436.953 g/mol
 magnesium pidolate,280.517 g/mol
-calamine/coal tar,F
-coal tar/zinc oxide,F
-deegan's,F
+calamine/coal tar,FAILED
+isomil,no mwt found
+coal tar/zinc oxide,FAILED
+deegan's,FAILED
 mazindol,284.74 g/mol
-Nicotinic acid/Laropiprant,F
+betamethasone valerate,no mwt found
+Nicotinic acid/Laropiprant,FAILED
 histrelin,1323.5 g/mol
 rupatadine,415.958 g/mol
+tyloxapol,no mwt found
 saquinavir,670.841 g/mol
 articaine,"284.37 g/mol<br/>
 320.836 g/mol (<a href=""/wiki/Hydrochloride"" title=""Hydrochloride"">HCl</a>)"
+maalox,no mwt found
 warfarin,308.33 g/mol
 sodium metabisulphite,190.107 g/mol
-dosulpein,F
-glycerin/honey/lemon/glucose,F
+rubella,no mwt found
+dosulpein,FAILED
+glycerin/honey/lemon/glucose,FAILED
 bemiparin sodium,3600 g/mol (average)
-actinac,F
-Harmogen,F
-benzyl alcohol,-71.83·10<sup>−6</sup> cm<sup>3</sup>/mol
-apothioridazine,F
-glycerin/honey/lemon/glucose/Ipecacuanha,F
-menopace,F
-salicylic acid/dithranol,F
+actinac,FAILED
+Harmogen,FAILED
+catumaxomab,no mwt found
+benzyl alcohol,no mwt found
+apothioridazine,FAILED
+olmesartan/amlodipine,no mwt found
+diphtheria,no mwt found
+glycerin/honey/lemon/glucose/Ipecacuanha,FAILED
+menopace,FAILED
+salicylic acid/dithranol,FAILED
 maribavir,376.24 g/mol
 vorinostat,264.32 g/mol
-sodium picosulfate/magnesium citrate,F
+sodium picosulfate/magnesium citrate,FAILED
+botulinum antitoxin,no mwt found
 nesiritide,3464 g/mol
 dapoxetine,305.413 g/mol
-sodium chloride/hydroxyethylcellulose,F
+hydrochloric acid,no mwt found
+sodium chloride/hydroxyethylcellulose,FAILED
 flumetasone,410.452 g/mol
-naproxen/esomeprazole,F
-ketoprofen/omeprazole,F
+naproxen/esomeprazole,FAILED
+ketoprofen/omeprazole,FAILED
 phenacetin,179.216 g/mol
 ferumoxytol,231.533 g/mol
+conestat alfa,no mwt found
 retapamulin,517.77 g/mol
 potassium bromide,119.002 g/mol
-sodium bicarbonate/sodium chloride,F
+sodium bicarbonate/sodium chloride,FAILED
 pegloticase,497 kg/mol (polymer-modified tetramer)
 epinastine,249.311 g/mol
-diphtheria/tetanus/pertussis/haemophilus,F
-clobetasol/unguentum,F
-alogliptin/metformin,F
-urea/ceramide,F
-zeroguent,F
+carboxypeptidase,no mwt found
+diphtheria/tetanus/pertussis/haemophilus,FAILED
+clobetasol/unguentum,FAILED
+alogliptin/metformin,FAILED
+urea/ceramide,FAILED
+zeroguent,FAILED
 eliglustat,404.543 g/mol
 telavancin,1755.63 g/mol
+ceftazidime/avibactam,no mwt found
 cangrelor tetrasodium,776.36 g/mol
-clobetasol/orabase,F
-cisplatin/cyclophosphamide/etoposide,F
-perindopril erbumine/amlodipine,F
-cobicistat/elvitegravir/emtricitabine/tenofovir alafenamide,F
-ceftolozane/tazobactam,F
+clobetasol/orabase,FAILED
+cisplatin/cyclophosphamide/etoposide,FAILED
+perindopril erbumine/amlodipine,FAILED
+cobicistat/elvitegravir/emtricitabine/tenofovir alafenamide,FAILED
+ceftolozane/tazobactam,FAILED
+gripe water,no mwt found
+influenza,no mwt found
